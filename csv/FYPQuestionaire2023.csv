@@ -1,0 +1,1001 @@
+age,gender,religion,spokenLanguage,education,numberOfChildren,channel,goodPlace,goodPlaceScore,badPlace,badPlaceScore,teacherFriendly,choose,createdTime
+44,Female,Islam,Filipino,Primary School or below,5,School Website,Hall,9,Hall,10,Disagree,No,29/01/2023
+43,Female,Catholicism,English,Master or above,0,Newspaper/ Magazine,Bio Lab,7,Chem Lab,4,Agree,Yes,29/01/2023
+38,Female,Confucianism,Vietnamese,Primary School or below,3,Social Media,Chem Lab,5,Basketball Court,10,Disagree,Yes,29/01/2023
+53,Male,Catholicism,Filipino,Primary School or below,3,Newspaper/ Magazine,Phy Lab,2,VA room,1,Disagree,Yes,28/01/2023
+46,Male,Buddhism,Indonesian,Primary School or below,4,School Website,Chem Lab,6,Hall,3,Neutral,,28/01/2023
+35,Female,Sikhism,Mandarin,University,3,Social Media,Canteen,3,Phy Lab,0,Agree,,29/01/2023
+25,Bigender,Chinese God,Cantonese,University,4,Social Media,Chem Lab,3,VA room,5,Disagree,Yes,28/01/2023
+57,Non-binary,Islam,English,Primary School or below,0,Friends/Extended Family/Neighbour,Phy Lab,6,VA room,7,Strongly Disagree,Yes,29/01/2023
+19,Female,Islam,English,Master or above,1,Social Media,Phy Lab,3,Library,3,Strongly Disagree,No,29/01/2023
+41,Male,Taoism,Indonesian,Master or above,2,Social Media,Hall,5,Canteen,6,Disagree,No,29/01/2023
+59,Male,Chinese God,Cantonese,Secondary School/Associate Degree/Diploma,0,School Website,Phy Lab,5,VA room,0,Neutral,No,29/01/2023
+18,Male,Buddhism,Vietnamese,University,3,School Website,Phy Lab,4,Library,0,Strongly Agree,No,28/01/2023
+36,Female,Chinese God,Filipino,University,4,Social Media,Library,2,Phy Lab,2,Agree,Yes,28/01/2023
+41,Male,Protestantism,Vietnamese,Master or above,2,School Website,Bio Lab,4,Chem Lab,2,Strongly Agree,Yes,29/01/2023
+32,Male,Confucianism,Vietnamese,Secondary School/Associate Degree/Diploma,3,Friends/Extended Family/Neighbour,Phy Lab,9,Hall,1,Strongly Disagree,No,28/01/2023
+20,Male,Islam,Vietnamese,Primary School or below,4,Friends/Extended Family/Neighbour,Canteen,10,Canteen,8,Agree,No,28/01/2023
+34,Female,Buddhism,Cantonese,Master or above,5,Friends/Extended Family/Neighbour,Library,4,Phy Lab,5,Strongly Agree,Yes,29/01/2023
+44,Female,Taoism,Filipino,Secondary School/Associate Degree/Diploma,2,School Website,Basketball Court,10,Basketball Court,3,Agree,,29/01/2023
+18,Genderqueer,Islam,Cantonese,Primary School or below,4,Newspaper/ Magazine,Phy Lab,5,VA room,5,Strongly Disagree,No,28/01/2023
+18,Female,Buddhism,Cantonese,Secondary School/Associate Degree/Diploma,4,School Website,Phy Lab,2,Phy Lab,2,Agree,No,29/01/2023
+46,Female,Taoism,Mandarin,Primary School or below,1,Newspaper/ Magazine,Hall,8,Chem Lab,7,Strongly Agree,No,28/01/2023
+44,Female,Hinduism,English,Primary School or below,1,Friends/Extended Family/Neighbour,Hall,10,Canteen,5,Agree,Yes,28/01/2023
+29,Male,Catholicism,Indonesian,Secondary School/Associate Degree/Diploma,3,School Website,VA room,4,Chem Lab,8,Disagree,No,29/01/2023
+60,Male,Catholicism,Vietnamese,Master or above,1,Social Media,Phy Lab,6,Chem Lab,3,Strongly Agree,Yes,28/01/2023
+19,Female,Hinduism,Thai,University,2,Friends/Extended Family/Neighbour,Basketball Court,0,Basketball Court,5,Strongly Disagree,No,28/01/2023
+19,Genderfluid,Hinduism,Thai,Primary School or below,2,Newspaper/ Magazine,Basketball Court,1,Hall,6,Strongly Agree,Yes,28/01/2023
+27,Male,Hinduism,Filipino,Master or above,2,Newspaper/ Magazine,Basketball Court,2,Phy Lab,0,Strongly Agree,No,29/01/2023
+40,Female,Catholicism,Thai,Master or above,3,School Website,Library,3,Canteen,8,Strongly Disagree,No,29/01/2023
+51,Polygender,Protestantism,Filipino,University,0,Social Media,Hall,2,Chem Lab,3,Strongly Agree,Yes,28/01/2023
+53,Male,Confucianism,Thai,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,Library,4,Basketball Court,0,Strongly Disagree,Yes,28/01/2023
+57,Female,Chinese God,Vietnamese,University,1,Social Media,Basketball Court,9,Library,1,Neutral,No,29/01/2023
+41,Male,Catholicism,Cantonese,Primary School or below,0,Newspaper/ Magazine,VA room,1,Hall,6,Strongly Disagree,No,28/01/2023
+53,Non-binary,Sikhism,Mandarin,Master or above,0,School Website,VA room,9,VA room,0,Agree,No,28/01/2023
+51,Female,Catholicism,Vietnamese,Secondary School/Associate Degree/Diploma,3,Social Media,Canteen,8,Bio Lab,7,Neutral,No,29/01/2023
+44,Bigender,Taoism,Cantonese,University,1,Newspaper/ Magazine,Chem Lab,1,Canteen,9,Agree,No,29/01/2023
+43,Male,Confucianism,Cantonese,Primary School or below,0,School Website,Hall,6,Canteen,3,Neutral,Yes,28/01/2023
+36,Male,Sikhism,Vietnamese,Master or above,4,Social Media,Phy Lab,9,Phy Lab,3,Neutral,No,29/01/2023
+32,Female,Islam,Mandarin,Secondary School/Associate Degree/Diploma,4,Friends/Extended Family/Neighbour,Library,6,VA room,7,Strongly Disagree,Yes,29/01/2023
+18,Agender,Sikhism,English,Master or above,2,Social Media,Bio Lab,1,Library,7,Neutral,No,28/01/2023
+32,Male,Protestantism,Filipino,University,0,Newspaper/ Magazine,Phy Lab,7,Basketball Court,8,Agree,No,28/01/2023
+34,Male,Protestantism,Cantonese,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,Chem Lab,7,VA room,9,Strongly Agree,No,29/01/2023
+50,Male,Taoism,Cantonese,Secondary School/Associate Degree/Diploma,5,School Website,Library,7,Phy Lab,10,Strongly Disagree,No,29/01/2023
+34,Male,Taoism,Cantonese,Master or above,4,School Website,Basketball Court,9,Chem Lab,2,Disagree,No,28/01/2023
+20,Female,Sikhism,Indonesian,Primary School or below,3,Social Media,VA room,3,Bio Lab,9,Neutral,Yes,28/01/2023
+59,Male,Catholicism,Mandarin,Master or above,4,Newspaper/ Magazine,Library,4,Phy Lab,0,Strongly Agree,No,29/01/2023
+55,Female,Islam,Indonesian,Primary School or below,0,Newspaper/ Magazine,Canteen,0,Library,10,Strongly Disagree,Yes,29/01/2023
+41,Male,Confucianism,Vietnamese,Secondary School/Associate Degree/Diploma,5,School Website,VA room,7,Canteen,0,Agree,Yes,29/01/2023
+23,Male,Islam,Mandarin,University,3,Social Media,Bio Lab,10,Bio Lab,4,Neutral,No,28/01/2023
+37,Female,Hinduism,Vietnamese,Primary School or below,5,Friends/Extended Family/Neighbour,Library,9,Library,9,Neutral,Yes,28/01/2023
+40,Male,Taoism,Cantonese,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Hall,9,Chem Lab,10,Strongly Agree,No,28/01/2023
+50,Male,Taoism,Indonesian,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,Library,1,Chem Lab,4,Agree,,29/01/2023
+31,Male,Taoism,Mandarin,Primary School or below,0,Friends/Extended Family/Neighbour,Bio Lab,5,VA room,8,Strongly Disagree,No,28/01/2023
+36,Female,Hinduism,Cantonese,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Chem Lab,8,Library,4,Agree,No,28/01/2023
+51,Male,Taoism,Thai,University,1,Social Media,Phy Lab,2,Chem Lab,5,Neutral,Yes,29/01/2023
+35,Male,Islam,Filipino,University,3,Social Media,Phy Lab,9,Library,4,Disagree,Yes,29/01/2023
+58,Female,Hinduism,Filipino,University,1,Friends/Extended Family/Neighbour,Bio Lab,4,Hall,6,Disagree,Yes,29/01/2023
+18,Female,Protestantism,Vietnamese,Secondary School/Associate Degree/Diploma,2,Social Media,Phy Lab,6,Chem Lab,3,Neutral,No,29/01/2023
+38,Male,Taoism,English,Primary School or below,5,Newspaper/ Magazine,Library,0,Bio Lab,1,Strongly Disagree,No,29/01/2023
+46,Female,Islam,Mandarin,Primary School or below,5,Newspaper/ Magazine,Canteen,5,Basketball Court,1,Disagree,Yes,29/01/2023
+18,Female,Catholicism,Mandarin,University,3,Friends/Extended Family/Neighbour,Bio Lab,3,Library,2,Strongly Agree,Yes,28/01/2023
+35,Male,Confucianism,Cantonese,Primary School or below,3,Newspaper/ Magazine,Basketball Court,9,Hall,6,Agree,Yes,29/01/2023
+36,Male,Protestantism,English,Secondary School/Associate Degree/Diploma,4,School Website,Canteen,1,Chem Lab,3,Strongly Agree,Yes,29/01/2023
+60,Female,Catholicism,Thai,University,5,Social Media,Phy Lab,7,Hall,2,Strongly Agree,,28/01/2023
+53,Female,Islam,Filipino,Secondary School/Associate Degree/Diploma,5,Friends/Extended Family/Neighbour,Library,0,Library,10,Strongly Agree,Yes,29/01/2023
+54,Female,Hinduism,Filipino,Master or above,0,Friends/Extended Family/Neighbour,Hall,1,VA room,9,Strongly Agree,No,29/01/2023
+25,Male,Chinese God,Vietnamese,University,2,School Website,Library,4,Chem Lab,0,Disagree,No,28/01/2023
+56,Male,Chinese God,Indonesian,Master or above,2,School Website,Canteen,6,Chem Lab,2,Strongly Disagree,No,28/01/2023
+50,Male,Hinduism,Mandarin,University,2,Social Media,Phy Lab,3,Phy Lab,9,Strongly Disagree,No,28/01/2023
+40,Female,Confucianism,Filipino,Secondary School/Associate Degree/Diploma,5,School Website,Hall,8,Canteen,0,Disagree,No,29/01/2023
+59,Female,Buddhism,Indonesian,Master or above,3,School Website,Canteen,1,Bio Lab,3,Agree,Yes,29/01/2023
+46,Female,Protestantism,English,Secondary School/Associate Degree/Diploma,3,School Website,Basketball Court,8,Phy Lab,3,Disagree,Yes,28/01/2023
+40,Male,Protestantism,Indonesian,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,Chem Lab,1,Canteen,4,Strongly Agree,No,28/01/2023
+31,Female,Catholicism,English,Primary School or below,3,Social Media,Canteen,9,Library,2,Strongly Disagree,No,29/01/2023
+42,Male,Chinese God,Filipino,Master or above,4,Friends/Extended Family/Neighbour,Hall,3,VA room,9,Agree,No,28/01/2023
+34,Male,Islam,Cantonese,University,2,School Website,Chem Lab,0,Bio Lab,6,Neutral,No,29/01/2023
+22,Female,Taoism,Indonesian,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,Bio Lab,4,Basketball Court,9,Agree,No,29/01/2023
+18,Male,Catholicism,Mandarin,Master or above,2,Friends/Extended Family/Neighbour,Canteen,9,Library,6,Disagree,No,28/01/2023
+57,Male,Hinduism,Cantonese,Master or above,5,Newspaper/ Magazine,Bio Lab,10,Hall,5,Strongly Disagree,No,29/01/2023
+40,Female,Confucianism,Filipino,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Basketball Court,3,Hall,0,Strongly Agree,Yes,29/01/2023
+42,Male,Buddhism,Vietnamese,Primary School or below,3,Social Media,Chem Lab,9,Hall,2,Neutral,Yes,29/01/2023
+32,Female,Confucianism,English,Secondary School/Associate Degree/Diploma,1,Friends/Extended Family/Neighbour,Hall,4,Chem Lab,2,Strongly Agree,Yes,28/01/2023
+21,Female,Chinese God,Filipino,Primary School or below,5,Friends/Extended Family/Neighbour,Canteen,6,VA room,2,Agree,Yes,29/01/2023
+35,Female,Hinduism,Filipino,Secondary School/Associate Degree/Diploma,3,Friends/Extended Family/Neighbour,Bio Lab,9,Canteen,0,Strongly Agree,No,28/01/2023
+54,Female,Islam,Cantonese,University,5,Social Media,VA room,7,Basketball Court,4,Strongly Agree,Yes,29/01/2023
+41,Female,Taoism,Indonesian,University,2,Newspaper/ Magazine,Chem Lab,7,Bio Lab,6,Strongly Agree,,29/01/2023
+20,Female,Chinese God,Vietnamese,University,0,School Website,Canteen,4,Library,8,Strongly Agree,No,29/01/2023
+36,Female,Chinese God,Vietnamese,Master or above,5,Friends/Extended Family/Neighbour,Hall,10,Hall,1,Agree,Yes,29/01/2023
+24,Polygender,Catholicism,English,Master or above,5,Friends/Extended Family/Neighbour,Basketball Court,4,Basketball Court,2,Strongly Disagree,Yes,29/01/2023
+58,Female,Confucianism,Mandarin,Primary School or below,4,Social Media,Bio Lab,6,Phy Lab,8,Disagree,No,28/01/2023
+60,Non-binary,Islam,Thai,Secondary School/Associate Degree/Diploma,3,School Website,VA room,1,VA room,1,Agree,No,28/01/2023
+34,Female,Taoism,Thai,Primary School or below,0,Social Media,Library,2,Basketball Court,4,Strongly Disagree,No,29/01/2023
+48,Male,Buddhism,English,Secondary School/Associate Degree/Diploma,4,Newspaper/ Magazine,VA room,5,Library,8,Strongly Agree,Yes,29/01/2023
+39,Male,Taoism,Cantonese,Primary School or below,1,Newspaper/ Magazine,VA room,0,Library,6,Agree,Yes,28/01/2023
+21,Male,Islam,Thai,University,2,Social Media,VA room,8,VA room,2,Disagree,Yes,28/01/2023
+54,Male,Confucianism,Cantonese,Primary School or below,3,School Website,Bio Lab,8,Chem Lab,4,Strongly Agree,No,28/01/2023
+41,Male,Buddhism,Mandarin,University,5,Friends/Extended Family/Neighbour,Chem Lab,0,Phy Lab,3,Neutral,Yes,28/01/2023
+49,Male,Hinduism,Cantonese,University,0,Social Media,Phy Lab,8,Library,1,Strongly Agree,No,29/01/2023
+32,Female,Buddhism,Cantonese,University,4,Friends/Extended Family/Neighbour,Bio Lab,4,Chem Lab,3,Strongly Agree,Yes,28/01/2023
+59,Male,Confucianism,Mandarin,Secondary School/Associate Degree/Diploma,3,School Website,Basketball Court,8,Library,8,Agree,Yes,29/01/2023
+59,Male,Sikhism,Filipino,Secondary School/Associate Degree/Diploma,2,Social Media,Phy Lab,4,Chem Lab,6,Strongly Agree,No,29/01/2023
+38,Male,Taoism,Filipino,Primary School or below,5,Friends/Extended Family/Neighbour,Basketball Court,1,Hall,6,Strongly Agree,Yes,29/01/2023
+47,Female,Confucianism,Cantonese,Master or above,4,Friends/Extended Family/Neighbour,Basketball Court,5,Phy Lab,3,Strongly Agree,Yes,29/01/2023
+50,Male,Sikhism,Thai,University,1,Newspaper/ Magazine,Canteen,0,Phy Lab,0,Disagree,No,28/01/2023
+35,Female,Sikhism,Indonesian,Primary School or below,4,Social Media,Phy Lab,5,Chem Lab,0,Neutral,,29/01/2023
+28,Female,Islam,Cantonese,Primary School or below,5,Friends/Extended Family/Neighbour,Hall,3,Phy Lab,2,Disagree,Yes,29/01/2023
+31,Male,Catholicism,Thai,Secondary School/Associate Degree/Diploma,4,Social Media,Basketball Court,1,Library,0,Strongly Disagree,Yes,29/01/2023
+37,Male,Confucianism,Thai,University,1,Newspaper/ Magazine,Basketball Court,2,Hall,3,Strongly Disagree,Yes,29/01/2023
+28,Male,Confucianism,Mandarin,Secondary School/Associate Degree/Diploma,5,School Website,Library,3,Bio Lab,0,Neutral,Yes,28/01/2023
+28,Male,Protestantism,Cantonese,University,3,Newspaper/ Magazine,Hall,9,Phy Lab,9,Strongly Agree,Yes,28/01/2023
+60,Female,Taoism,Cantonese,Master or above,0,Social Media,Bio Lab,3,Chem Lab,8,Disagree,Yes,28/01/2023
+44,Male,Sikhism,Vietnamese,Master or above,2,School Website,Basketball Court,8,Canteen,7,Strongly Agree,No,29/01/2023
+52,Female,Sikhism,Cantonese,Master or above,4,Newspaper/ Magazine,Phy Lab,9,Hall,9,Strongly Disagree,Yes,28/01/2023
+51,Male,Chinese God,Indonesian,Primary School or below,4,Social Media,Phy Lab,9,Chem Lab,7,Agree,,28/01/2023
+31,Male,Confucianism,Mandarin,University,3,Friends/Extended Family/Neighbour,Bio Lab,0,Canteen,5,Strongly Agree,Yes,28/01/2023
+51,Male,Islam,Cantonese,Master or above,5,Social Media,Canteen,1,Chem Lab,8,Strongly Agree,No,29/01/2023
+25,Male,Protestantism,Thai,University,3,Newspaper/ Magazine,Basketball Court,7,Canteen,6,Disagree,Yes,29/01/2023
+31,Male,Chinese God,Thai,Secondary School/Associate Degree/Diploma,1,Friends/Extended Family/Neighbour,Hall,3,Library,7,Strongly Agree,No,28/01/2023
+20,Male,Buddhism,Mandarin,Master or above,2,School Website,VA room,0,VA room,6,Neutral,No,29/01/2023
+32,Male,Chinese God,Thai,Primary School or below,0,Friends/Extended Family/Neighbour,Hall,1,Hall,4,Strongly Disagree,No,29/01/2023
+34,Female,Hinduism,Mandarin,Secondary School/Associate Degree/Diploma,4,Friends/Extended Family/Neighbour,Hall,7,Phy Lab,2,Neutral,No,29/01/2023
+24,Female,Buddhism,Indonesian,Primary School or below,4,Newspaper/ Magazine,Library,7,Library,9,Neutral,Yes,28/01/2023
+37,Male,Buddhism,Indonesian,Primary School or below,0,School Website,Chem Lab,1,Canteen,8,Neutral,No,29/01/2023
+19,Male,Confucianism,Filipino,Master or above,5,School Website,Hall,4,Library,10,Disagree,No,29/01/2023
+57,Female,Confucianism,Indonesian,Primary School or below,4,Friends/Extended Family/Neighbour,Phy Lab,1,Canteen,9,Strongly Disagree,No,28/01/2023
+24,Male,Confucianism,Mandarin,Primary School or below,1,Newspaper/ Magazine,Hall,9,Bio Lab,8,Agree,Yes,28/01/2023
+22,Female,Taoism,Vietnamese,Secondary School/Associate Degree/Diploma,4,Newspaper/ Magazine,Phy Lab,7,Chem Lab,6,Disagree,No,28/01/2023
+44,Female,Buddhism,English,University,0,School Website,Basketball Court,5,Canteen,10,Neutral,No,29/01/2023
+36,Female,Hinduism,Thai,University,2,Newspaper/ Magazine,Basketball Court,10,Library,1,Agree,No,29/01/2023
+38,Male,Taoism,Cantonese,Secondary School/Associate Degree/Diploma,0,School Website,Bio Lab,3,Chem Lab,6,Neutral,No,29/01/2023
+58,Male,Buddhism,Cantonese,Master or above,4,Social Media,Canteen,6,Canteen,3,Agree,,28/01/2023
+32,Female,Catholicism,Thai,Secondary School/Associate Degree/Diploma,3,School Website,Library,0,Library,6,Strongly Agree,Yes,29/01/2023
+25,Female,Confucianism,Vietnamese,Primary School or below,1,Friends/Extended Family/Neighbour,Canteen,3,VA room,5,Strongly Disagree,No,29/01/2023
+35,Female,Protestantism,Mandarin,Secondary School/Associate Degree/Diploma,0,School Website,Canteen,2,Hall,7,Disagree,Yes,28/01/2023
+41,Male,Catholicism,Thai,University,1,Social Media,Hall,6,VA room,1,Strongly Disagree,Yes,29/01/2023
+54,Bigender,Protestantism,Vietnamese,Master or above,1,School Website,Library,9,Basketball Court,2,Agree,No,29/01/2023
+28,Male,Protestantism,Mandarin,University,5,Friends/Extended Family/Neighbour,Basketball Court,1,Hall,4,Strongly Agree,No,28/01/2023
+54,Male,Hinduism,Vietnamese,Primary School or below,1,School Website,Chem Lab,2,Canteen,10,Neutral,No,29/01/2023
+25,Male,Buddhism,Mandarin,Primary School or below,1,Friends/Extended Family/Neighbour,Hall,1,Basketball Court,1,Neutral,No,28/01/2023
+46,Female,Confucianism,Mandarin,Primary School or below,5,Social Media,Hall,7,Phy Lab,8,Neutral,Yes,29/01/2023
+22,Female,Hinduism,Cantonese,University,3,Social Media,VA room,1,Library,0,Neutral,Yes,28/01/2023
+18,Male,Confucianism,Vietnamese,Primary School or below,4,School Website,Library,5,Bio Lab,2,Strongly Disagree,Yes,29/01/2023
+58,Female,Taoism,Indonesian,Secondary School/Associate Degree/Diploma,1,School Website,Library,2,Phy Lab,0,Disagree,Yes,29/01/2023
+42,Female,Hinduism,Filipino,Master or above,5,School Website,Hall,9,Canteen,6,Disagree,Yes,28/01/2023
+54,Female,Taoism,Vietnamese,Primary School or below,4,Social Media,Library,3,VA room,6,Disagree,,28/01/2023
+18,Male,Confucianism,Thai,Master or above,0,Social Media,Phy Lab,4,Library,2,Agree,No,28/01/2023
+45,Agender,Islam,Thai,Secondary School/Associate Degree/Diploma,1,Social Media,Canteen,9,Chem Lab,4,Strongly Disagree,Yes,29/01/2023
+30,Male,Protestantism,Mandarin,University,5,Newspaper/ Magazine,Phy Lab,9,Canteen,1,Disagree,Yes,28/01/2023
+57,Female,Islam,Indonesian,Primary School or below,5,Social Media,Library,8,Hall,6,Agree,Yes,29/01/2023
+50,Genderqueer,Taoism,Filipino,Secondary School/Associate Degree/Diploma,1,Friends/Extended Family/Neighbour,Basketball Court,1,Canteen,6,Strongly Disagree,Yes,28/01/2023
+24,Agender,Taoism,Vietnamese,Master or above,0,Social Media,VA room,4,Bio Lab,6,Neutral,No,28/01/2023
+29,Male,Confucianism,Cantonese,Secondary School/Associate Degree/Diploma,3,Social Media,Bio Lab,1,Chem Lab,10,Strongly Disagree,Yes,28/01/2023
+21,Male,Taoism,Cantonese,Primary School or below,0,Friends/Extended Family/Neighbour,Library,4,Canteen,3,Neutral,,28/01/2023
+40,Agender,Islam,Vietnamese,Primary School or below,1,School Website,Canteen,1,Phy Lab,5,Agree,,28/01/2023
+25,Agender,Catholicism,Filipino,Primary School or below,2,Social Media,VA room,9,Chem Lab,2,Strongly Agree,No,28/01/2023
+48,Male,Islam,Filipino,Master or above,2,Social Media,Chem Lab,8,Phy Lab,10,Strongly Disagree,Yes,29/01/2023
+30,Female,Chinese God,Thai,Primary School or below,0,Friends/Extended Family/Neighbour,Basketball Court,3,Canteen,2,Neutral,No,29/01/2023
+42,Male,Confucianism,Indonesian,University,4,Social Media,Bio Lab,1,Canteen,0,Strongly Disagree,Yes,29/01/2023
+30,Male,Taoism,Vietnamese,Master or above,5,Social Media,Basketball Court,6,Bio Lab,4,Disagree,No,29/01/2023
+33,Male,Protestantism,Filipino,Master or above,0,Newspaper/ Magazine,Phy Lab,3,Canteen,3,Strongly Agree,Yes,28/01/2023
+55,Male,Protestantism,Indonesian,University,1,Friends/Extended Family/Neighbour,Bio Lab,2,Hall,1,Strongly Disagree,Yes,29/01/2023
+24,Female,Buddhism,Indonesian,University,1,Social Media,Phy Lab,1,Basketball Court,8,Disagree,Yes,28/01/2023
+56,Female,Chinese God,Thai,University,4,Social Media,Library,0,VA room,10,Agree,No,28/01/2023
+37,Female,Chinese God,Cantonese,Master or above,0,School Website,Library,6,VA room,8,Neutral,No,28/01/2023
+54,Female,Hinduism,Filipino,University,3,Friends/Extended Family/Neighbour,Bio Lab,5,Hall,6,Strongly Agree,Yes,28/01/2023
+37,Female,Protestantism,Filipino,Secondary School/Associate Degree/Diploma,1,Friends/Extended Family/Neighbour,Library,6,VA room,10,Neutral,No,29/01/2023
+30,Female,Confucianism,Filipino,Master or above,5,Newspaper/ Magazine,Canteen,6,Bio Lab,5,Strongly Disagree,Yes,28/01/2023
+31,Male,Hinduism,Filipino,University,1,Friends/Extended Family/Neighbour,Hall,3,Bio Lab,0,Disagree,Yes,28/01/2023
+36,Polygender,Chinese God,Cantonese,Primary School or below,0,Newspaper/ Magazine,Library,2,Library,7,Strongly Disagree,No,29/01/2023
+57,Female,Islam,Indonesian,Master or above,3,Newspaper/ Magazine,Bio Lab,5,Chem Lab,9,Neutral,Yes,29/01/2023
+23,Male,Hinduism,Filipino,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Hall,0,VA room,2,Strongly Disagree,No,28/01/2023
+32,Male,Chinese God,Vietnamese,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,VA room,5,Canteen,7,Strongly Disagree,No,28/01/2023
+29,Male,Buddhism,Thai,Primary School or below,1,Social Media,Hall,10,Bio Lab,6,Disagree,Yes,28/01/2023
+48,Male,Hinduism,Cantonese,Secondary School/Associate Degree/Diploma,2,School Website,VA room,6,Library,4,Strongly Agree,Yes,29/01/2023
+26,Female,Sikhism,Mandarin,Secondary School/Associate Degree/Diploma,2,Social Media,Library,6,Canteen,6,Agree,Yes,29/01/2023
+19,Male,Protestantism,English,Master or above,0,School Website,Phy Lab,9,Basketball Court,9,Neutral,No,28/01/2023
+45,Male,Hinduism,Thai,Secondary School/Associate Degree/Diploma,5,School Website,Library,6,Phy Lab,2,Disagree,Yes,29/01/2023
+37,Female,Taoism,Cantonese,University,0,Friends/Extended Family/Neighbour,Chem Lab,5,Chem Lab,5,Strongly Agree,No,28/01/2023
+23,Female,Protestantism,Indonesian,Primary School or below,0,Social Media,Hall,6,Basketball Court,8,Neutral,No,29/01/2023
+27,Female,Confucianism,Mandarin,Primary School or below,4,Newspaper/ Magazine,Hall,7,Bio Lab,1,Strongly Agree,No,28/01/2023
+23,Female,Islam,Thai,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,Basketball Court,3,Basketball Court,2,Neutral,Yes,28/01/2023
+33,Male,Protestantism,Indonesian,Master or above,3,School Website,VA room,0,Phy Lab,5,Disagree,No,28/01/2023
+19,Female,Sikhism,Indonesian,Primary School or below,2,Friends/Extended Family/Neighbour,Bio Lab,0,Chem Lab,1,Disagree,Yes,28/01/2023
+29,Male,Catholicism,Cantonese,Master or above,5,School Website,Basketball Court,7,Chem Lab,8,Strongly Agree,No,28/01/2023
+36,Female,Buddhism,Thai,Primary School or below,1,Friends/Extended Family/Neighbour,Library,8,Bio Lab,1,Neutral,,28/01/2023
+19,Male,Protestantism,Filipino,Master or above,2,Friends/Extended Family/Neighbour,Chem Lab,2,Phy Lab,0,Agree,No,28/01/2023
+40,Female,Hinduism,Indonesian,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,Basketball Court,10,Phy Lab,10,Strongly Disagree,Yes,29/01/2023
+35,Male,Sikhism,Vietnamese,Secondary School/Associate Degree/Diploma,2,School Website,Chem Lab,6,Bio Lab,4,Neutral,No,28/01/2023
+38,Female,Islam,Indonesian,Master or above,3,Social Media,VA room,6,Basketball Court,7,Agree,Yes,29/01/2023
+51,Male,Sikhism,Indonesian,Master or above,1,Newspaper/ Magazine,Chem Lab,7,Phy Lab,5,Neutral,Yes,28/01/2023
+42,Male,Islam,Filipino,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,Hall,8,Chem Lab,8,Strongly Disagree,No,28/01/2023
+57,Female,Hinduism,Indonesian,Master or above,2,Friends/Extended Family/Neighbour,Phy Lab,9,Canteen,7,Disagree,No,29/01/2023
+52,Female,Buddhism,Cantonese,University,0,Social Media,Canteen,3,Hall,2,Agree,,28/01/2023
+58,Polygender,Buddhism,Indonesian,Primary School or below,0,Newspaper/ Magazine,Basketball Court,4,Basketball Court,9,Strongly Agree,Yes,29/01/2023
+60,Male,Buddhism,Cantonese,Primary School or below,3,Friends/Extended Family/Neighbour,Phy Lab,6,Chem Lab,3,Strongly Agree,No,28/01/2023
+48,Female,Taoism,Cantonese,Primary School or below,0,Social Media,Library,8,Chem Lab,2,Disagree,,28/01/2023
+60,Non-binary,Taoism,Indonesian,University,4,Social Media,Phy Lab,0,Canteen,5,Agree,No,28/01/2023
+56,Male,Catholicism,English,Primary School or below,1,Social Media,Canteen,0,Basketball Court,0,Disagree,No,28/01/2023
+31,Female,Chinese God,Mandarin,Secondary School/Associate Degree/Diploma,3,School Website,Chem Lab,7,Basketball Court,1,Disagree,No,28/01/2023
+26,Male,Chinese God,Cantonese,Secondary School/Associate Degree/Diploma,1,School Website,Library,1,Canteen,8,Disagree,Yes,29/01/2023
+25,Male,Sikhism,Mandarin,Primary School or below,5,Social Media,VA room,3,Library,0,Strongly Agree,Yes,29/01/2023
+50,Male,Buddhism,Cantonese,University,0,Social Media,Canteen,10,Library,3,Agree,Yes,28/01/2023
+36,Female,Sikhism,Indonesian,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,VA room,5,VA room,9,Strongly Disagree,No,28/01/2023
+52,Male,Chinese God,Vietnamese,Master or above,3,Newspaper/ Magazine,Canteen,0,Basketball Court,4,Agree,Yes,29/01/2023
+35,Male,Catholicism,English,Primary School or below,3,School Website,Phy Lab,9,Library,8,Agree,No,29/01/2023
+35,Female,Taoism,English,University,2,Social Media,Canteen,6,Library,7,Disagree,Yes,29/01/2023
+55,Male,Protestantism,Mandarin,University,4,School Website,Library,10,Library,9,Strongly Disagree,No,28/01/2023
+32,Female,Confucianism,English,Secondary School/Associate Degree/Diploma,2,School Website,Hall,0,Bio Lab,0,Neutral,Yes,28/01/2023
+37,Female,Confucianism,Cantonese,University,4,Social Media,Basketball Court,3,Canteen,1,Strongly Disagree,No,28/01/2023
+54,Male,Sikhism,English,University,5,School Website,Canteen,6,Basketball Court,9,Disagree,,28/01/2023
+40,Male,Sikhism,English,Primary School or below,1,Social Media,Phy Lab,10,Basketball Court,5,Strongly Agree,No,29/01/2023
+51,Female,Islam,Filipino,Secondary School/Associate Degree/Diploma,4,Newspaper/ Magazine,Basketball Court,5,Basketball Court,8,Strongly Agree,No,28/01/2023
+41,Male,Hinduism,Mandarin,University,2,Social Media,Hall,2,Phy Lab,8,Disagree,Yes,29/01/2023
+47,Male,Catholicism,Cantonese,Primary School or below,5,Friends/Extended Family/Neighbour,Canteen,1,Chem Lab,0,Neutral,Yes,29/01/2023
+55,Male,Protestantism,Filipino,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,Phy Lab,7,Library,4,Strongly Disagree,Yes,28/01/2023
+49,Male,Hinduism,English,Primary School or below,2,Friends/Extended Family/Neighbour,Canteen,2,Chem Lab,3,Strongly Agree,Yes,28/01/2023
+58,Female,Taoism,English,Master or above,0,School Website,Bio Lab,0,Library,1,Agree,Yes,29/01/2023
+38,Male,Hinduism,Vietnamese,Master or above,4,School Website,Basketball Court,8,Chem Lab,3,Neutral,Yes,29/01/2023
+57,Female,Taoism,Vietnamese,Master or above,2,Social Media,Library,8,Chem Lab,5,Agree,,29/01/2023
+59,Male,Sikhism,Cantonese,University,4,School Website,Hall,7,Phy Lab,1,Strongly Disagree,Yes,28/01/2023
+39,Female,Islam,Filipino,Secondary School/Associate Degree/Diploma,3,Social Media,Chem Lab,7,VA room,4,Neutral,,29/01/2023
+24,Female,Sikhism,Vietnamese,University,1,Social Media,Canteen,5,Phy Lab,0,Disagree,Yes,28/01/2023
+38,Female,Taoism,Indonesian,Primary School or below,1,Newspaper/ Magazine,Hall,3,Hall,9,Neutral,Yes,29/01/2023
+39,Male,Taoism,Cantonese,Primary School or below,2,Social Media,Bio Lab,1,Library,0,Agree,No,28/01/2023
+24,Male,Chinese God,Filipino,Primary School or below,2,School Website,Chem Lab,10,Phy Lab,2,Strongly Agree,No,28/01/2023
+22,Male,Protestantism,English,University,5,Friends/Extended Family/Neighbour,Chem Lab,1,Hall,2,Neutral,No,28/01/2023
+48,Female,Catholicism,Cantonese,Master or above,4,Social Media,Phy Lab,3,VA room,5,Disagree,Yes,28/01/2023
+37,Female,Chinese God,Cantonese,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,Canteen,1,Canteen,5,Strongly Agree,Yes,29/01/2023
+48,Male,Islam,Mandarin,Primary School or below,2,Friends/Extended Family/Neighbour,Chem Lab,7,Bio Lab,3,Strongly Agree,No,29/01/2023
+54,Female,Sikhism,Vietnamese,Secondary School/Associate Degree/Diploma,4,Newspaper/ Magazine,VA room,8,Canteen,0,Agree,No,28/01/2023
+36,Female,Islam,Thai,Secondary School/Associate Degree/Diploma,0,Social Media,Library,10,VA room,5,Agree,No,29/01/2023
+39,Male,Chinese God,Vietnamese,Master or above,5,Social Media,Bio Lab,0,Library,1,Strongly Disagree,No,29/01/2023
+48,Female,Chinese God,English,University,4,Social Media,Canteen,5,Phy Lab,7,Neutral,Yes,28/01/2023
+37,Female,Islam,English,Secondary School/Associate Degree/Diploma,4,School Website,Library,10,Phy Lab,7,Agree,Yes,28/01/2023
+24,Female,Chinese God,Vietnamese,Secondary School/Associate Degree/Diploma,1,School Website,Hall,9,Hall,7,Strongly Agree,No,28/01/2023
+39,Male,Confucianism,Indonesian,Primary School or below,4,Social Media,Library,10,Bio Lab,6,Neutral,No,29/01/2023
+24,Male,Chinese God,Vietnamese,University,4,Social Media,Canteen,6,Library,6,Agree,Yes,28/01/2023
+53,Male,Confucianism,Mandarin,Secondary School/Associate Degree/Diploma,1,Friends/Extended Family/Neighbour,Bio Lab,2,Hall,0,Neutral,Yes,29/01/2023
+28,Male,Confucianism,Thai,Master or above,1,School Website,Hall,3,Hall,6,Strongly Disagree,No,28/01/2023
+43,Male,Hinduism,Cantonese,University,2,Friends/Extended Family/Neighbour,Basketball Court,10,Hall,4,Agree,Yes,29/01/2023
+49,Female,Catholicism,Mandarin,Primary School or below,1,School Website,Library,0,Library,2,Disagree,No,28/01/2023
+60,Female,Confucianism,Vietnamese,Master or above,2,School Website,Bio Lab,10,Hall,6,Strongly Disagree,Yes,28/01/2023
+56,Male,Chinese God,English,Secondary School/Associate Degree/Diploma,3,Social Media,Hall,8,Library,10,Neutral,Yes,28/01/2023
+58,Male,Protestantism,Cantonese,University,4,Newspaper/ Magazine,Library,7,Library,0,Neutral,Yes,29/01/2023
+42,Male,Confucianism,English,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,Chem Lab,9,Chem Lab,1,Strongly Agree,No,29/01/2023
+42,Genderfluid,Taoism,Mandarin,Primary School or below,4,Social Media,Chem Lab,5,Phy Lab,6,Strongly Agree,,28/01/2023
+20,Female,Buddhism,Vietnamese,Primary School or below,2,Friends/Extended Family/Neighbour,Library,6,Canteen,10,Agree,Yes,29/01/2023
+27,Male,Sikhism,Filipino,Primary School or below,5,School Website,VA room,7,Phy Lab,8,Strongly Disagree,Yes,28/01/2023
+28,Male,Hinduism,Mandarin,Master or above,5,Newspaper/ Magazine,Hall,9,Bio Lab,5,Disagree,Yes,29/01/2023
+34,Male,Islam,Thai,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,VA room,2,Canteen,1,Neutral,No,28/01/2023
+35,Male,Hinduism,Mandarin,Primary School or below,1,Friends/Extended Family/Neighbour,Bio Lab,4,Canteen,6,Strongly Agree,Yes,29/01/2023
+51,Female,Hinduism,Filipino,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,Phy Lab,8,Library,0,Strongly Agree,Yes,28/01/2023
+44,Female,Hinduism,Cantonese,Master or above,3,Social Media,Hall,6,VA room,6,Strongly Agree,No,28/01/2023
+54,Male,Sikhism,Cantonese,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Chem Lab,2,Phy Lab,9,Strongly Agree,No,29/01/2023
+25,Female,Chinese God,Mandarin,University,2,Social Media,Canteen,2,Bio Lab,5,Disagree,Yes,29/01/2023
+52,Agender,Taoism,Thai,Secondary School/Associate Degree/Diploma,2,Social Media,Canteen,7,Phy Lab,7,Disagree,No,29/01/2023
+36,Male,Islam,Thai,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Canteen,4,Bio Lab,1,Strongly Disagree,No,29/01/2023
+43,Male,Hinduism,Indonesian,Master or above,5,Social Media,Chem Lab,1,Hall,6,Strongly Agree,No,28/01/2023
+19,Male,Protestantism,Mandarin,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Hall,10,Phy Lab,9,Strongly Disagree,No,28/01/2023
+40,Female,Islam,Filipino,Master or above,1,Newspaper/ Magazine,Canteen,4,Phy Lab,5,Neutral,Yes,29/01/2023
+21,Male,Taoism,Indonesian,University,4,Friends/Extended Family/Neighbour,Hall,6,Canteen,2,Neutral,Yes,29/01/2023
+49,Male,Taoism,Indonesian,University,0,Social Media,Chem Lab,2,Basketball Court,7,Agree,,28/01/2023
+33,Female,Sikhism,Mandarin,Secondary School/Associate Degree/Diploma,2,Social Media,Basketball Court,10,Hall,3,Strongly Agree,Yes,29/01/2023
+34,Male,Confucianism,Mandarin,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,VA room,10,Basketball Court,4,Agree,No,28/01/2023
+31,Female,Protestantism,Thai,Primary School or below,0,Friends/Extended Family/Neighbour,Basketball Court,3,Phy Lab,4,Strongly Agree,Yes,28/01/2023
+45,Genderfluid,Catholicism,Filipino,Master or above,0,Newspaper/ Magazine,Chem Lab,1,Library,7,Strongly Disagree,,29/01/2023
+31,Male,Protestantism,Thai,Primary School or below,2,Newspaper/ Magazine,Phy Lab,7,Canteen,6,Strongly Disagree,No,29/01/2023
+57,Male,Chinese God,Thai,University,1,Social Media,Bio Lab,8,Canteen,7,Disagree,No,29/01/2023
+50,Male,Taoism,Filipino,Primary School or below,5,Newspaper/ Magazine,Library,9,Library,5,Neutral,Yes,28/01/2023
+32,Male,Buddhism,Filipino,Primary School or below,4,School Website,VA room,4,VA room,7,Neutral,Yes,29/01/2023
+40,Male,Sikhism,Indonesian,Secondary School/Associate Degree/Diploma,5,Friends/Extended Family/Neighbour,VA room,2,Bio Lab,10,Strongly Disagree,Yes,28/01/2023
+52,Male,Islam,Cantonese,Primary School or below,5,School Website,Basketball Court,9,Phy Lab,5,Strongly Agree,,28/01/2023
+43,Male,Hinduism,English,Primary School or below,3,School Website,Phy Lab,9,VA room,5,Strongly Disagree,Yes,29/01/2023
+45,Female,Sikhism,Filipino,Master or above,4,Newspaper/ Magazine,Basketball Court,4,Hall,8,Neutral,Yes,29/01/2023
+22,Male,Taoism,Thai,Primary School or below,1,Friends/Extended Family/Neighbour,Canteen,10,Basketball Court,5,Agree,,29/01/2023
+42,Male,Chinese God,Thai,Primary School or below,5,Friends/Extended Family/Neighbour,Basketball Court,0,Bio Lab,9,Strongly Agree,No,29/01/2023
+46,Female,Taoism,Vietnamese,University,3,Newspaper/ Magazine,Library,3,Phy Lab,4,Strongly Agree,No,28/01/2023
+38,Female,Buddhism,English,Master or above,5,School Website,Library,7,Basketball Court,0,Strongly Disagree,Yes,28/01/2023
+20,Female,Chinese God,English,Secondary School/Associate Degree/Diploma,2,School Website,Hall,9,Chem Lab,1,Agree,Yes,28/01/2023
+50,Male,Protestantism,Vietnamese,Master or above,1,Friends/Extended Family/Neighbour,Library,5,Canteen,0,Disagree,,29/01/2023
+28,Polygender,Confucianism,Cantonese,Master or above,3,Friends/Extended Family/Neighbour,Library,6,Bio Lab,2,Agree,Yes,28/01/2023
+45,Male,Taoism,Thai,Master or above,3,School Website,Phy Lab,4,Chem Lab,2,Disagree,Yes,28/01/2023
+49,Female,Buddhism,Indonesian,Primary School or below,5,Friends/Extended Family/Neighbour,Canteen,8,Basketball Court,1,Agree,Yes,29/01/2023
+23,Male,Buddhism,Vietnamese,University,5,Social Media,Chem Lab,4,Canteen,7,Disagree,Yes,28/01/2023
+34,Male,Protestantism,Cantonese,Primary School or below,0,Social Media,Hall,6,Chem Lab,2,Disagree,Yes,29/01/2023
+57,Bigender,Protestantism,Thai,Primary School or below,2,Social Media,Phy Lab,2,Basketball Court,4,Disagree,No,28/01/2023
+54,Non-binary,Confucianism,Filipino,Primary School or below,1,Newspaper/ Magazine,Phy Lab,1,VA room,0,Strongly Disagree,Yes,29/01/2023
+38,Male,Buddhism,Thai,Master or above,0,Newspaper/ Magazine,Hall,1,Chem Lab,1,Strongly Disagree,Yes,29/01/2023
+23,Non-binary,Sikhism,Vietnamese,Primary School or below,2,School Website,Hall,8,Chem Lab,2,Disagree,No,28/01/2023
+43,Male,Hinduism,English,Master or above,2,Newspaper/ Magazine,Library,2,Library,8,Agree,Yes,29/01/2023
+27,Female,Taoism,Indonesian,Primary School or below,2,Social Media,Chem Lab,10,Phy Lab,6,Strongly Agree,No,28/01/2023
+20,Non-binary,Islam,Indonesian,University,3,Newspaper/ Magazine,Canteen,1,Canteen,7,Strongly Disagree,No,28/01/2023
+30,Male,Chinese God,Filipino,Primary School or below,4,School Website,Basketball Court,0,Phy Lab,1,Strongly Agree,Yes,28/01/2023
+39,Female,Confucianism,Indonesian,Master or above,1,Newspaper/ Magazine,VA room,8,Library,5,Strongly Disagree,No,29/01/2023
+34,Male,Confucianism,Mandarin,Master or above,5,School Website,Chem Lab,1,Basketball Court,6,Neutral,No,28/01/2023
+36,Female,Islam,Vietnamese,University,1,Friends/Extended Family/Neighbour,VA room,1,Chem Lab,9,Strongly Disagree,No,28/01/2023
+27,Male,Catholicism,Indonesian,Master or above,3,Newspaper/ Magazine,Hall,3,Library,3,Agree,Yes,28/01/2023
+49,Female,Taoism,Mandarin,Secondary School/Associate Degree/Diploma,3,Friends/Extended Family/Neighbour,Phy Lab,4,Library,10,Disagree,Yes,29/01/2023
+31,Male,Islam,Indonesian,Primary School or below,5,Social Media,Phy Lab,9,VA room,4,Agree,No,28/01/2023
+46,Female,Catholicism,Cantonese,University,1,Friends/Extended Family/Neighbour,Phy Lab,9,VA room,2,Agree,No,28/01/2023
+25,Female,Islam,Vietnamese,Master or above,3,Social Media,Phy Lab,10,Basketball Court,5,Neutral,Yes,28/01/2023
+51,Male,Islam,English,Master or above,2,Newspaper/ Magazine,VA room,4,Hall,3,Strongly Agree,No,28/01/2023
+47,Polygender,Hinduism,English,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,Canteen,6,VA room,8,Agree,No,28/01/2023
+52,Female,Protestantism,Mandarin,Primary School or below,4,Newspaper/ Magazine,Library,4,Basketball Court,0,Disagree,No,28/01/2023
+53,Female,Chinese God,Filipino,Primary School or below,1,Friends/Extended Family/Neighbour,Canteen,7,Basketball Court,3,Disagree,Yes,28/01/2023
+34,Female,Taoism,English,University,3,Friends/Extended Family/Neighbour,Basketball Court,2,Bio Lab,8,Neutral,Yes,28/01/2023
+41,Female,Chinese God,Cantonese,Master or above,1,Social Media,Library,8,Library,0,Strongly Agree,,28/01/2023
+19,Male,Islam,Indonesian,Primary School or below,4,School Website,Bio Lab,1,Canteen,0,Neutral,Yes,28/01/2023
+46,Female,Islam,Thai,University,4,School Website,Canteen,9,Chem Lab,5,Disagree,No,29/01/2023
+46,Female,Catholicism,Vietnamese,University,0,Social Media,Hall,5,Chem Lab,4,Strongly Disagree,Yes,28/01/2023
+50,Male,Chinese God,Indonesian,Secondary School/Associate Degree/Diploma,1,School Website,VA room,5,Hall,5,Strongly Disagree,,28/01/2023
+26,Genderfluid,Hinduism,English,Master or above,2,School Website,Hall,5,Chem Lab,3,Agree,,29/01/2023
+19,Female,Protestantism,Vietnamese,Secondary School/Associate Degree/Diploma,3,School Website,Canteen,7,Basketball Court,7,Strongly Agree,Yes,29/01/2023
+35,Genderfluid,Islam,Vietnamese,Primary School or below,4,Social Media,Basketball Court,10,Library,10,Agree,No,29/01/2023
+23,Polygender,Catholicism,Indonesian,Master or above,2,Newspaper/ Magazine,Library,8,Library,9,Neutral,Yes,28/01/2023
+49,Male,Buddhism,Indonesian,University,4,School Website,Canteen,10,Hall,10,Neutral,No,29/01/2023
+22,Male,Confucianism,Cantonese,Master or above,0,Social Media,Hall,4,Basketball Court,9,Neutral,Yes,29/01/2023
+21,Male,Chinese God,Mandarin,Primary School or below,1,School Website,Bio Lab,1,Basketball Court,9,Strongly Agree,No,28/01/2023
+54,Female,Hinduism,Mandarin,University,5,School Website,Bio Lab,0,Chem Lab,0,Strongly Disagree,Yes,28/01/2023
+19,Male,Buddhism,Cantonese,Primary School or below,4,School Website,Chem Lab,8,Basketball Court,4,Neutral,Yes,28/01/2023
+35,Agender,Chinese God,English,University,0,School Website,Chem Lab,10,Basketball Court,9,Strongly Agree,Yes,29/01/2023
+39,Female,Catholicism,English,Primary School or below,5,Friends/Extended Family/Neighbour,Library,6,Bio Lab,4,Neutral,No,29/01/2023
+48,Female,Sikhism,Vietnamese,University,5,Newspaper/ Magazine,VA room,2,Phy Lab,1,Neutral,Yes,28/01/2023
+28,Male,Islam,Cantonese,Primary School or below,3,Friends/Extended Family/Neighbour,Hall,6,Bio Lab,7,Strongly Agree,No,28/01/2023
+36,Male,Catholicism,English,Secondary School/Associate Degree/Diploma,1,Social Media,Library,1,Basketball Court,9,Strongly Agree,Yes,29/01/2023
+30,Male,Hinduism,Vietnamese,Primary School or below,3,Social Media,Canteen,3,Bio Lab,0,Strongly Disagree,,28/01/2023
+45,Genderqueer,Chinese God,Mandarin,Secondary School/Associate Degree/Diploma,1,School Website,Hall,7,Library,9,Strongly Disagree,Yes,28/01/2023
+33,Male,Catholicism,Filipino,Master or above,2,School Website,Bio Lab,10,Hall,6,Strongly Agree,Yes,29/01/2023
+58,Agender,Buddhism,Thai,Secondary School/Associate Degree/Diploma,4,Friends/Extended Family/Neighbour,Chem Lab,6,Phy Lab,5,Agree,Yes,29/01/2023
+42,Female,Sikhism,Filipino,Primary School or below,1,Friends/Extended Family/Neighbour,Basketball Court,8,Canteen,10,Neutral,No,29/01/2023
+29,Female,Buddhism,Thai,Primary School or below,0,School Website,Chem Lab,10,Library,7,Strongly Disagree,Yes,28/01/2023
+41,Male,Protestantism,Mandarin,Master or above,4,School Website,VA room,6,Library,2,Neutral,Yes,29/01/2023
+60,Male,Hinduism,English,Primary School or below,0,Social Media,Hall,8,Chem Lab,2,Disagree,Yes,29/01/2023
+46,Male,Taoism,Mandarin,Master or above,3,School Website,Phy Lab,2,VA room,2,Disagree,No,29/01/2023
+60,Female,Chinese God,Cantonese,Primary School or below,4,Friends/Extended Family/Neighbour,Basketball Court,4,Phy Lab,1,Strongly Agree,No,29/01/2023
+56,Male,Catholicism,Filipino,University,5,Social Media,Phy Lab,10,Library,5,Strongly Disagree,Yes,29/01/2023
+52,Female,Chinese God,Thai,Master or above,1,Newspaper/ Magazine,Chem Lab,2,Hall,1,Disagree,Yes,29/01/2023
+18,Male,Protestantism,Cantonese,Secondary School/Associate Degree/Diploma,2,School Website,Basketball Court,8,Canteen,4,Neutral,Yes,29/01/2023
+23,Polygender,Catholicism,English,Primary School or below,5,Friends/Extended Family/Neighbour,Phy Lab,0,Hall,7,Disagree,Yes,29/01/2023
+46,Male,Buddhism,Indonesian,Master or above,1,Social Media,Basketball Court,3,Basketball Court,10,Strongly Disagree,No,29/01/2023
+45,Male,Hinduism,Thai,University,0,School Website,Phy Lab,4,Library,9,Strongly Agree,No,29/01/2023
+37,Female,Hinduism,Thai,University,0,Newspaper/ Magazine,Canteen,5,Chem Lab,3,Agree,Yes,29/01/2023
+41,Non-binary,Taoism,Indonesian,Master or above,1,Friends/Extended Family/Neighbour,Canteen,1,Canteen,1,Neutral,,28/01/2023
+39,Male,Sikhism,Mandarin,Master or above,4,School Website,Library,5,VA room,5,Strongly Disagree,,29/01/2023
+55,Female,Buddhism,Filipino,Secondary School/Associate Degree/Diploma,2,Social Media,Library,0,Bio Lab,10,Strongly Agree,,29/01/2023
+22,Male,Chinese God,English,Secondary School/Associate Degree/Diploma,5,Friends/Extended Family/Neighbour,Basketball Court,7,VA room,4,Strongly Disagree,Yes,28/01/2023
+60,Female,Buddhism,Cantonese,University,0,Friends/Extended Family/Neighbour,Bio Lab,1,Library,7,Agree,,29/01/2023
+42,Female,Buddhism,Cantonese,University,2,School Website,Hall,2,Library,1,Disagree,,29/01/2023
+44,Male,Sikhism,Cantonese,University,2,Newspaper/ Magazine,Basketball Court,9,Hall,4,Strongly Disagree,,29/01/2023
+22,Male,Protestantism,Filipino,University,5,School Website,Phy Lab,3,Phy Lab,3,Strongly Disagree,Yes,29/01/2023
+22,Male,Chinese God,Filipino,Master or above,5,Newspaper/ Magazine,Hall,2,Hall,2,Neutral,No,29/01/2023
+34,Male,Islam,Vietnamese,Master or above,1,Newspaper/ Magazine,Hall,4,Canteen,8,Neutral,Yes,28/01/2023
+39,Female,Catholicism,Indonesian,Master or above,3,Social Media,Library,1,VA room,6,Agree,No,29/01/2023
+39,Male,Sikhism,Cantonese,University,1,School Website,Bio Lab,1,Canteen,0,Strongly Agree,Yes,28/01/2023
+25,Male,Taoism,Mandarin,Secondary School/Associate Degree/Diploma,5,Social Media,Hall,5,Bio Lab,0,Disagree,No,28/01/2023
+56,Male,Hinduism,Indonesian,University,2,Social Media,Phy Lab,9,Hall,3,Strongly Disagree,Yes,28/01/2023
+54,Male,Chinese God,Indonesian,University,2,School Website,Hall,6,Basketball Court,10,Disagree,No,28/01/2023
+31,Male,Buddhism,Thai,Primary School or below,1,Social Media,Basketball Court,3,Bio Lab,8,Neutral,Yes,29/01/2023
+19,Male,Hinduism,Filipino,University,0,Friends/Extended Family/Neighbour,Hall,4,Hall,9,Strongly Disagree,No,29/01/2023
+20,Male,Taoism,Thai,University,0,Social Media,Chem Lab,8,VA room,3,Agree,Yes,28/01/2023
+43,Male,Hinduism,Vietnamese,Master or above,1,School Website,Library,9,Hall,3,Agree,Yes,29/01/2023
+27,Female,Catholicism,Filipino,Master or above,3,Social Media,Canteen,7,Library,7,Disagree,No,28/01/2023
+24,Male,Islam,Indonesian,Primary School or below,5,Newspaper/ Magazine,VA room,8,Hall,8,Agree,Yes,28/01/2023
+44,Non-binary,Sikhism,Indonesian,Secondary School/Associate Degree/Diploma,1,School Website,VA room,8,Phy Lab,8,Strongly Disagree,No,28/01/2023
+46,Male,Protestantism,Mandarin,Primary School or below,4,Friends/Extended Family/Neighbour,Chem Lab,8,Hall,9,Disagree,Yes,29/01/2023
+55,Male,Sikhism,Indonesian,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Basketball Court,3,Basketball Court,10,Disagree,Yes,29/01/2023
+34,Male,Taoism,Filipino,Primary School or below,4,Social Media,Canteen,2,Canteen,6,Disagree,,29/01/2023
+60,Female,Buddhism,Filipino,Secondary School/Associate Degree/Diploma,4,Social Media,Bio Lab,10,VA room,5,Strongly Agree,No,28/01/2023
+35,Female,Protestantism,Cantonese,University,0,Social Media,Canteen,7,Basketball Court,3,Strongly Disagree,,29/01/2023
+50,Genderqueer,Confucianism,Filipino,University,5,School Website,Library,3,Basketball Court,1,Agree,No,28/01/2023
+20,Female,Chinese God,Filipino,University,2,School Website,Bio Lab,1,Bio Lab,1,Neutral,Yes,28/01/2023
+39,Male,Protestantism,Indonesian,Master or above,0,Newspaper/ Magazine,Basketball Court,2,Basketball Court,10,Strongly Disagree,No,28/01/2023
+55,Male,Buddhism,Thai,University,5,Newspaper/ Magazine,Basketball Court,8,Hall,0,Strongly Disagree,No,28/01/2023
+57,Male,Catholicism,English,Secondary School/Associate Degree/Diploma,1,Social Media,Basketball Court,0,Basketball Court,3,Agree,,28/01/2023
+38,Agender,Catholicism,Mandarin,Secondary School/Associate Degree/Diploma,0,Social Media,Hall,1,Bio Lab,2,Strongly Agree,No,29/01/2023
+36,Female,Confucianism,Vietnamese,Secondary School/Associate Degree/Diploma,3,Friends/Extended Family/Neighbour,Basketball Court,3,Phy Lab,10,Agree,No,28/01/2023
+24,Male,Buddhism,Cantonese,Secondary School/Associate Degree/Diploma,3,School Website,Bio Lab,7,Phy Lab,10,Strongly Agree,No,28/01/2023
+43,Male,Taoism,Thai,Master or above,3,Newspaper/ Magazine,VA room,4,Hall,10,Strongly Agree,No,28/01/2023
+28,Female,Catholicism,Thai,Secondary School/Associate Degree/Diploma,1,School Website,Library,5,Bio Lab,1,Neutral,No,29/01/2023
+60,Male,Confucianism,Indonesian,Secondary School/Associate Degree/Diploma,5,School Website,Basketball Court,1,Phy Lab,2,Strongly Agree,No,29/01/2023
+50,Male,Sikhism,Vietnamese,University,1,Social Media,Hall,7,Basketball Court,7,Strongly Agree,No,29/01/2023
+22,Female,Taoism,English,University,2,Newspaper/ Magazine,Canteen,6,Canteen,1,Neutral,Yes,29/01/2023
+55,Male,Chinese God,Thai,Master or above,1,Friends/Extended Family/Neighbour,Basketball Court,7,Library,3,Neutral,No,29/01/2023
+22,Female,Chinese God,Filipino,Primary School or below,3,Friends/Extended Family/Neighbour,Library,8,Phy Lab,4,Disagree,No,28/01/2023
+39,Female,Chinese God,Mandarin,University,5,Newspaper/ Magazine,Canteen,10,Chem Lab,4,Disagree,Yes,29/01/2023
+57,Female,Buddhism,Mandarin,University,2,Friends/Extended Family/Neighbour,Basketball Court,0,VA room,8,Disagree,No,29/01/2023
+47,Male,Sikhism,Vietnamese,Primary School or below,1,Friends/Extended Family/Neighbour,Phy Lab,3,Phy Lab,5,Strongly Agree,No,29/01/2023
+56,Female,Islam,Mandarin,Primary School or below,3,Friends/Extended Family/Neighbour,Phy Lab,3,Library,9,Neutral,Yes,28/01/2023
+21,Female,Buddhism,Filipino,Secondary School/Associate Degree/Diploma,4,Social Media,Canteen,4,Library,7,Strongly Disagree,Yes,28/01/2023
+26,Male,Protestantism,Vietnamese,Master or above,2,School Website,Phy Lab,10,Bio Lab,5,Disagree,No,28/01/2023
+27,Female,Taoism,Indonesian,Primary School or below,1,Social Media,Canteen,2,VA room,2,Neutral,No,29/01/2023
+31,Female,Buddhism,Vietnamese,Master or above,1,Social Media,Basketball Court,1,Phy Lab,8,Agree,No,28/01/2023
+25,Male,Catholicism,Mandarin,Primary School or below,2,School Website,Library,9,VA room,3,Disagree,,29/01/2023
+21,Polygender,Sikhism,Indonesian,Primary School or below,4,Social Media,VA room,9,Library,10,Neutral,No,28/01/2023
+56,Male,Sikhism,Mandarin,Secondary School/Associate Degree/Diploma,4,School Website,Library,5,VA room,8,Disagree,Yes,28/01/2023
+60,Female,Protestantism,Filipino,Master or above,4,Social Media,Phy Lab,2,Chem Lab,9,Strongly Disagree,No,28/01/2023
+48,Male,Chinese God,Indonesian,University,2,Friends/Extended Family/Neighbour,Canteen,3,Basketball Court,7,Strongly Disagree,Yes,28/01/2023
+47,Bigender,Hinduism,Indonesian,University,3,Social Media,Phy Lab,8,Basketball Court,6,Strongly Agree,No,29/01/2023
+56,Female,Hinduism,Vietnamese,Master or above,0,Social Media,Canteen,9,Library,7,Neutral,Yes,29/01/2023
+34,Male,Taoism,Thai,Master or above,1,Social Media,Hall,8,Library,3,Strongly Disagree,No,29/01/2023
+51,Male,Buddhism,English,University,5,Social Media,Canteen,9,Hall,4,Neutral,Yes,29/01/2023
+25,Female,Catholicism,Vietnamese,University,4,Social Media,Phy Lab,4,Bio Lab,8,Disagree,,29/01/2023
+39,Female,Protestantism,Thai,Master or above,1,School Website,VA room,1,Bio Lab,1,Strongly Agree,No,28/01/2023
+43,Male,Sikhism,Mandarin,University,1,School Website,Basketball Court,9,Canteen,7,Disagree,No,28/01/2023
+32,Female,Taoism,Mandarin,University,4,Friends/Extended Family/Neighbour,Hall,4,Hall,0,Strongly Agree,No,28/01/2023
+48,Female,Sikhism,Mandarin,Primary School or below,5,Newspaper/ Magazine,Basketball Court,2,Library,4,Disagree,No,29/01/2023
+34,Genderqueer,Catholicism,Filipino,Primary School or below,0,School Website,Bio Lab,1,Library,8,Strongly Agree,No,28/01/2023
+24,Male,Sikhism,English,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,Basketball Court,4,Hall,3,Neutral,No,29/01/2023
+57,Male,Islam,Thai,Secondary School/Associate Degree/Diploma,4,Friends/Extended Family/Neighbour,Basketball Court,5,Basketball Court,6,Strongly Disagree,Yes,29/01/2023
+23,Female,Buddhism,Cantonese,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,Chem Lab,5,Phy Lab,4,Neutral,No,29/01/2023
+35,Male,Confucianism,Cantonese,Primary School or below,4,Social Media,Canteen,1,Hall,1,Disagree,Yes,28/01/2023
+32,Polygender,Chinese God,Indonesian,Master or above,3,Newspaper/ Magazine,VA room,8,Bio Lab,4,Strongly Disagree,No,28/01/2023
+46,Male,Islam,Filipino,Secondary School/Associate Degree/Diploma,2,Social Media,Library,10,Library,8,Neutral,Yes,28/01/2023
+27,Male,Catholicism,Indonesian,University,4,School Website,Bio Lab,10,Hall,3,Neutral,No,29/01/2023
+38,Female,Catholicism,Filipino,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,VA room,4,VA room,2,Disagree,,29/01/2023
+46,Female,Sikhism,English,University,3,School Website,Canteen,10,Hall,9,Agree,Yes,28/01/2023
+59,Female,Chinese God,Thai,University,1,Newspaper/ Magazine,VA room,4,Phy Lab,4,Strongly Agree,Yes,28/01/2023
+50,Female,Hinduism,Vietnamese,Secondary School/Associate Degree/Diploma,1,School Website,Basketball Court,10,Hall,6,Agree,,29/01/2023
+38,Agender,Catholicism,English,Primary School or below,5,Social Media,Basketball Court,4,Library,0,Neutral,,28/01/2023
+30,Female,Hinduism,Thai,Secondary School/Associate Degree/Diploma,1,Friends/Extended Family/Neighbour,Chem Lab,2,Library,5,Disagree,No,29/01/2023
+54,Male,Chinese God,Thai,University,5,School Website,Phy Lab,6,Chem Lab,9,Neutral,No,28/01/2023
+51,Male,Buddhism,Mandarin,University,4,School Website,Phy Lab,1,VA room,2,Strongly Agree,No,29/01/2023
+19,Male,Sikhism,Vietnamese,University,1,Social Media,Canteen,8,VA room,8,Strongly Disagree,No,28/01/2023
+54,Female,Confucianism,Cantonese,Master or above,0,School Website,Basketball Court,5,Basketball Court,4,Strongly Disagree,Yes,28/01/2023
+32,Female,Islam,English,Primary School or below,3,School Website,Phy Lab,10,Basketball Court,3,Agree,No,29/01/2023
+35,Male,Chinese God,Mandarin,University,5,Newspaper/ Magazine,Canteen,9,Chem Lab,7,Agree,,28/01/2023
+22,Female,Islam,Filipino,Secondary School/Associate Degree/Diploma,3,Social Media,Hall,4,Phy Lab,2,Agree,No,29/01/2023
+39,Male,Taoism,Cantonese,University,3,Newspaper/ Magazine,Chem Lab,7,Library,5,Strongly Agree,No,29/01/2023
+30,Female,Taoism,Cantonese,Secondary School/Associate Degree/Diploma,4,School Website,Canteen,8,Library,10,Disagree,Yes,28/01/2023
+45,Female,Buddhism,English,Master or above,1,Newspaper/ Magazine,Phy Lab,4,VA room,4,Strongly Disagree,No,28/01/2023
+23,Female,Buddhism,Indonesian,Primary School or below,2,Newspaper/ Magazine,Chem Lab,2,VA room,2,Agree,Yes,29/01/2023
+35,Male,Sikhism,Indonesian,Primary School or below,5,Social Media,Basketball Court,8,Phy Lab,3,Agree,No,29/01/2023
+58,Female,Chinese God,Indonesian,Primary School or below,4,School Website,Library,9,Bio Lab,8,Strongly Agree,No,28/01/2023
+35,Polygender,Confucianism,Cantonese,Secondary School/Associate Degree/Diploma,1,Social Media,Hall,5,Bio Lab,4,Disagree,Yes,28/01/2023
+59,Female,Protestantism,Indonesian,Primary School or below,5,Social Media,Phy Lab,0,Library,1,Disagree,Yes,29/01/2023
+29,Male,Sikhism,Indonesian,University,3,Social Media,Phy Lab,3,VA room,6,Strongly Disagree,No,29/01/2023
+47,Female,Sikhism,Filipino,Secondary School/Associate Degree/Diploma,5,School Website,Hall,4,Library,8,Strongly Agree,Yes,28/01/2023
+53,Male,Buddhism,English,Primary School or below,1,Newspaper/ Magazine,Basketball Court,4,Basketball Court,2,Agree,No,29/01/2023
+44,Male,Taoism,Filipino,University,5,School Website,Phy Lab,6,Bio Lab,6,Neutral,No,28/01/2023
+29,Male,Taoism,Vietnamese,Master or above,5,Newspaper/ Magazine,Basketball Court,8,Canteen,9,Neutral,,29/01/2023
+36,Female,Protestantism,Indonesian,Primary School or below,0,School Website,Library,2,Hall,4,Neutral,No,28/01/2023
+32,Female,Protestantism,Mandarin,Secondary School/Associate Degree/Diploma,1,Social Media,Library,10,VA room,2,Strongly Disagree,Yes,29/01/2023
+31,Male,Buddhism,Vietnamese,University,4,School Website,Hall,8,Basketball Court,1,Neutral,Yes,29/01/2023
+35,Male,Hinduism,Mandarin,University,1,Newspaper/ Magazine,Library,10,Basketball Court,1,Disagree,No,28/01/2023
+24,Genderqueer,Taoism,Cantonese,Master or above,2,Friends/Extended Family/Neighbour,Hall,9,Bio Lab,3,Neutral,Yes,28/01/2023
+26,Female,Protestantism,Mandarin,University,3,Social Media,Canteen,0,VA room,10,Strongly Agree,No,28/01/2023
+50,Female,Protestantism,English,University,2,Social Media,Chem Lab,6,VA room,5,Disagree,Yes,28/01/2023
+21,Female,Islam,Thai,Primary School or below,0,Social Media,Chem Lab,7,Bio Lab,5,Neutral,No,29/01/2023
+40,Male,Hinduism,Thai,Secondary School/Associate Degree/Diploma,1,Social Media,VA room,4,Chem Lab,10,Neutral,No,28/01/2023
+50,Genderfluid,Islam,Thai,Master or above,4,Newspaper/ Magazine,VA room,2,VA room,2,Strongly Disagree,Yes,29/01/2023
+52,Genderqueer,Taoism,Indonesian,Master or above,1,Friends/Extended Family/Neighbour,Hall,2,Basketball Court,3,Agree,No,29/01/2023
+19,Male,Chinese God,Indonesian,Primary School or below,3,Newspaper/ Magazine,Phy Lab,3,Canteen,0,Strongly Disagree,No,28/01/2023
+39,Male,Confucianism,Indonesian,Master or above,5,School Website,Bio Lab,6,VA room,5,Neutral,No,29/01/2023
+36,Male,Buddhism,English,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,Phy Lab,2,Canteen,0,Agree,No,28/01/2023
+52,Female,Sikhism,Vietnamese,Primary School or below,3,Friends/Extended Family/Neighbour,Canteen,6,Basketball Court,1,Agree,Yes,29/01/2023
+36,Male,Taoism,Thai,University,4,Social Media,Hall,4,Hall,2,Neutral,Yes,28/01/2023
+42,Female,Catholicism,Indonesian,Master or above,0,Social Media,Library,7,Bio Lab,3,Disagree,Yes,29/01/2023
+48,Male,Taoism,English,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,Phy Lab,8,Phy Lab,4,Neutral,,29/01/2023
+24,Male,Chinese God,Mandarin,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Hall,2,Chem Lab,7,Neutral,Yes,29/01/2023
+22,Female,Taoism,Vietnamese,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,Bio Lab,8,Bio Lab,2,Disagree,No,28/01/2023
+19,Male,Catholicism,Vietnamese,University,5,Friends/Extended Family/Neighbour,Bio Lab,9,VA room,0,Disagree,,29/01/2023
+60,Female,Catholicism,Cantonese,Primary School or below,2,Friends/Extended Family/Neighbour,VA room,2,Chem Lab,6,Strongly Disagree,Yes,29/01/2023
+18,Female,Protestantism,Cantonese,Primary School or below,3,Social Media,Phy Lab,1,Chem Lab,4,Agree,Yes,29/01/2023
+48,Male,Islam,Filipino,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,Hall,4,VA room,9,Strongly Disagree,Yes,28/01/2023
+37,Female,Hinduism,Cantonese,University,2,Social Media,Phy Lab,1,Hall,10,Strongly Disagree,No,29/01/2023
+28,Agender,Chinese God,Indonesian,University,4,Friends/Extended Family/Neighbour,Chem Lab,10,Basketball Court,10,Strongly Agree,Yes,28/01/2023
+60,Male,Protestantism,Mandarin,Master or above,5,Social Media,Bio Lab,0,VA room,2,Neutral,Yes,29/01/2023
+27,Female,Buddhism,Filipino,University,2,School Website,Bio Lab,7,Canteen,2,Strongly Agree,No,28/01/2023
+18,Female,Buddhism,Mandarin,Master or above,0,Newspaper/ Magazine,VA room,5,VA room,8,Strongly Agree,No,28/01/2023
+48,Female,Taoism,Mandarin,Master or above,0,Newspaper/ Magazine,Basketball Court,10,Library,6,Disagree,No,28/01/2023
+29,Male,Taoism,Mandarin,Primary School or below,5,Social Media,VA room,4,Library,8,Neutral,No,28/01/2023
+45,Female,Chinese God,Indonesian,Master or above,5,Newspaper/ Magazine,VA room,9,Chem Lab,0,Agree,,29/01/2023
+49,Agender,Confucianism,Cantonese,University,1,Social Media,Chem Lab,2,VA room,9,Strongly Disagree,,28/01/2023
+43,Male,Sikhism,Indonesian,Master or above,1,Social Media,Hall,6,VA room,10,Strongly Disagree,No,29/01/2023
+41,Male,Chinese God,Thai,Primary School or below,1,Friends/Extended Family/Neighbour,Bio Lab,10,Phy Lab,0,Disagree,No,28/01/2023
+19,Female,Confucianism,Filipino,Secondary School/Associate Degree/Diploma,3,School Website,Hall,6,VA room,1,Strongly Agree,No,28/01/2023
+49,Male,Taoism,Thai,Primary School or below,3,Newspaper/ Magazine,Bio Lab,4,Hall,4,Disagree,,29/01/2023
+27,Female,Taoism,Cantonese,Primary School or below,4,Friends/Extended Family/Neighbour,Chem Lab,3,Hall,5,Strongly Disagree,Yes,28/01/2023
+27,Male,Catholicism,Mandarin,Master or above,4,Friends/Extended Family/Neighbour,Phy Lab,3,Library,1,Strongly Agree,No,29/01/2023
+31,Non-binary,Hinduism,Indonesian,Primary School or below,4,Newspaper/ Magazine,Basketball Court,1,VA room,3,Agree,No,29/01/2023
+49,Male,Protestantism,English,University,2,School Website,Canteen,2,Phy Lab,5,Strongly Disagree,No,28/01/2023
+35,Male,Sikhism,Filipino,Secondary School/Associate Degree/Diploma,4,School Website,Bio Lab,9,VA room,5,Agree,,29/01/2023
+57,Female,Islam,Mandarin,Primary School or below,0,School Website,VA room,4,VA room,5,Disagree,Yes,28/01/2023
+37,Female,Confucianism,Thai,University,0,Friends/Extended Family/Neighbour,Canteen,1,Hall,5,Strongly Disagree,No,28/01/2023
+55,Female,Hinduism,Filipino,Secondary School/Associate Degree/Diploma,4,Social Media,Chem Lab,2,VA room,4,Strongly Disagree,No,28/01/2023
+47,Female,Chinese God,Filipino,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,Basketball Court,0,Chem Lab,7,Strongly Agree,No,29/01/2023
+37,Male,Taoism,Thai,University,1,Social Media,Basketball Court,0,Phy Lab,1,Strongly Disagree,No,28/01/2023
+45,Female,Catholicism,English,Secondary School/Associate Degree/Diploma,0,Social Media,Basketball Court,7,Hall,2,Neutral,Yes,28/01/2023
+59,Male,Chinese God,English,University,5,School Website,Bio Lab,3,Library,2,Neutral,Yes,29/01/2023
+59,Female,Confucianism,Indonesian,Primary School or below,0,School Website,Library,8,Library,7,Strongly Disagree,Yes,28/01/2023
+35,Female,Protestantism,Cantonese,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,Canteen,9,Hall,7,Strongly Disagree,Yes,29/01/2023
+60,Female,Islam,Filipino,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Basketball Court,10,Bio Lab,3,Neutral,No,28/01/2023
+37,Male,Islam,English,Secondary School/Associate Degree/Diploma,4,Newspaper/ Magazine,Phy Lab,9,Basketball Court,0,Disagree,No,28/01/2023
+18,Male,Protestantism,Filipino,University,1,Friends/Extended Family/Neighbour,Bio Lab,0,VA room,3,Strongly Disagree,No,29/01/2023
+47,Female,Confucianism,Indonesian,University,1,Social Media,Canteen,1,Basketball Court,10,Agree,,28/01/2023
+20,Male,Islam,Filipino,University,0,School Website,Phy Lab,2,Library,2,Strongly Agree,Yes,28/01/2023
+27,Female,Hinduism,Mandarin,University,5,Social Media,Bio Lab,5,VA room,8,Disagree,,28/01/2023
+52,Male,Buddhism,Filipino,Primary School or below,3,Social Media,VA room,4,Chem Lab,1,Strongly Agree,Yes,28/01/2023
+27,Male,Buddhism,English,Primary School or below,0,Newspaper/ Magazine,Phy Lab,7,VA room,5,Disagree,Yes,29/01/2023
+21,Male,Hinduism,Mandarin,University,1,Newspaper/ Magazine,Canteen,2,Chem Lab,6,Strongly Agree,No,28/01/2023
+50,Female,Protestantism,Vietnamese,Master or above,4,Friends/Extended Family/Neighbour,VA room,3,Bio Lab,4,Neutral,Yes,28/01/2023
+56,Male,Islam,English,Master or above,0,School Website,Library,5,Phy Lab,1,Strongly Disagree,No,28/01/2023
+33,Female,Confucianism,Mandarin,University,4,Social Media,VA room,0,Canteen,9,Agree,No,29/01/2023
+50,Male,Taoism,Indonesian,Primary School or below,3,Social Media,Phy Lab,0,Bio Lab,5,Strongly Agree,No,28/01/2023
+51,Male,Confucianism,Indonesian,Primary School or below,4,School Website,Chem Lab,9,Hall,3,Disagree,Yes,28/01/2023
+50,Female,Chinese God,Thai,University,4,Newspaper/ Magazine,Library,7,Chem Lab,5,Disagree,Yes,29/01/2023
+18,Female,Catholicism,Cantonese,University,1,School Website,VA room,0,Bio Lab,2,Neutral,Yes,28/01/2023
+57,Non-binary,Taoism,Cantonese,Primary School or below,4,Social Media,Bio Lab,1,Chem Lab,7,Agree,No,28/01/2023
+48,Female,Catholicism,Cantonese,University,4,School Website,Hall,6,Library,4,Strongly Disagree,Yes,28/01/2023
+20,Male,Sikhism,Indonesian,Master or above,1,Newspaper/ Magazine,Phy Lab,4,Hall,3,Strongly Agree,No,28/01/2023
+30,Female,Islam,Indonesian,Master or above,3,Friends/Extended Family/Neighbour,Chem Lab,1,Library,10,Disagree,No,29/01/2023
+28,Male,Islam,Thai,Secondary School/Associate Degree/Diploma,4,Newspaper/ Magazine,Chem Lab,0,Canteen,2,Strongly Agree,Yes,28/01/2023
+42,Male,Hinduism,Thai,University,0,Friends/Extended Family/Neighbour,Bio Lab,9,VA room,4,Strongly Disagree,Yes,29/01/2023
+29,Male,Sikhism,Mandarin,University,0,Newspaper/ Magazine,Basketball Court,10,Hall,0,Strongly Agree,No,29/01/2023
+58,Female,Confucianism,Thai,Master or above,2,School Website,Chem Lab,0,Basketball Court,3,Disagree,No,28/01/2023
+51,Male,Sikhism,Mandarin,Master or above,4,Newspaper/ Magazine,Chem Lab,3,Basketball Court,9,Strongly Agree,Yes,29/01/2023
+60,Female,Islam,Vietnamese,Master or above,3,Newspaper/ Magazine,Bio Lab,0,Library,2,Disagree,Yes,29/01/2023
+42,Male,Protestantism,Vietnamese,Secondary School/Associate Degree/Diploma,2,School Website,VA room,6,VA room,6,Neutral,No,29/01/2023
+27,Male,Buddhism,Thai,Master or above,3,School Website,Library,9,Bio Lab,2,Disagree,Yes,28/01/2023
+43,Female,Catholicism,English,Master or above,5,Friends/Extended Family/Neighbour,VA room,6,Chem Lab,4,Neutral,No,28/01/2023
+37,Female,Hinduism,English,Master or above,3,Friends/Extended Family/Neighbour,Basketball Court,5,Bio Lab,1,Disagree,Yes,29/01/2023
+26,Male,Chinese God,Cantonese,University,2,Friends/Extended Family/Neighbour,Chem Lab,8,Basketball Court,6,Strongly Agree,No,29/01/2023
+29,Male,Chinese God,Mandarin,University,0,Newspaper/ Magazine,Chem Lab,0,Library,10,Strongly Agree,Yes,29/01/2023
+60,Female,Catholicism,Thai,Master or above,1,Friends/Extended Family/Neighbour,Basketball Court,9,VA room,0,Disagree,No,28/01/2023
+50,Male,Sikhism,Filipino,University,5,School Website,Bio Lab,10,Canteen,9,Neutral,,28/01/2023
+56,Female,Taoism,English,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,Hall,0,Phy Lab,3,Neutral,No,29/01/2023
+53,Female,Hinduism,English,Secondary School/Associate Degree/Diploma,5,Friends/Extended Family/Neighbour,Hall,6,Hall,0,Disagree,No,28/01/2023
+39,Female,Taoism,Thai,Master or above,3,School Website,VA room,3,Phy Lab,5,Strongly Disagree,,29/01/2023
+19,Female,Buddhism,English,Primary School or below,2,School Website,VA room,2,Canteen,7,Disagree,Yes,28/01/2023
+59,Male,Hinduism,Vietnamese,Primary School or below,1,Newspaper/ Magazine,Basketball Court,9,Hall,2,Agree,Yes,29/01/2023
+49,Male,Buddhism,Thai,Master or above,5,Friends/Extended Family/Neighbour,Hall,1,Library,4,Neutral,Yes,29/01/2023
+31,Female,Hinduism,English,Master or above,2,Newspaper/ Magazine,Bio Lab,4,Library,4,Strongly Agree,Yes,29/01/2023
+58,Female,Hinduism,Filipino,University,3,Social Media,Hall,10,Basketball Court,2,Disagree,No,29/01/2023
+28,Female,Islam,English,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Library,10,Hall,6,Agree,No,28/01/2023
+39,Bigender,Protestantism,Indonesian,Master or above,3,Friends/Extended Family/Neighbour,Basketball Court,1,Hall,6,Agree,No,28/01/2023
+24,Male,Catholicism,English,Secondary School/Associate Degree/Diploma,1,Social Media,Chem Lab,2,Basketball Court,8,Disagree,No,28/01/2023
+37,Male,Protestantism,Mandarin,University,4,Social Media,Hall,3,Canteen,3,Strongly Agree,Yes,29/01/2023
+55,Female,Catholicism,Thai,Master or above,0,Social Media,VA room,9,VA room,4,Strongly Disagree,Yes,29/01/2023
+48,Female,Chinese God,Vietnamese,University,1,School Website,Library,10,Chem Lab,4,Disagree,Yes,29/01/2023
+57,Male,Catholicism,Mandarin,Primary School or below,3,School Website,Basketball Court,6,Hall,0,Agree,No,29/01/2023
+23,Male,Confucianism,Indonesian,Master or above,3,Social Media,Library,8,Chem Lab,10,Agree,Yes,29/01/2023
+26,Male,Buddhism,Mandarin,Secondary School/Associate Degree/Diploma,1,School Website,Bio Lab,8,Bio Lab,2,Disagree,No,28/01/2023
+57,Agender,Taoism,Thai,University,5,Social Media,Library,5,Bio Lab,3,Strongly Disagree,No,29/01/2023
+58,Male,Protestantism,Filipino,Secondary School/Associate Degree/Diploma,1,Social Media,Phy Lab,8,Canteen,7,Agree,No,28/01/2023
+27,Female,Protestantism,Mandarin,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,Basketball Court,2,Bio Lab,1,Neutral,Yes,28/01/2023
+45,Male,Islam,English,Master or above,2,School Website,Canteen,10,Basketball Court,7,Strongly Agree,Yes,28/01/2023
+37,Female,Hinduism,Cantonese,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,Bio Lab,2,Canteen,8,Disagree,No,28/01/2023
+27,Female,Protestantism,Indonesian,University,5,Social Media,VA room,8,Phy Lab,10,Disagree,Yes,28/01/2023
+32,Female,Confucianism,Thai,Secondary School/Associate Degree/Diploma,5,Friends/Extended Family/Neighbour,Phy Lab,6,Library,7,Neutral,,29/01/2023
+28,Male,Protestantism,Vietnamese,Secondary School/Associate Degree/Diploma,1,School Website,Canteen,8,Canteen,8,Neutral,No,29/01/2023
+41,Female,Taoism,Thai,University,1,Newspaper/ Magazine,VA room,1,Hall,0,Strongly Agree,Yes,28/01/2023
+47,Polygender,Taoism,English,University,2,School Website,Basketball Court,10,Bio Lab,1,Strongly Disagree,Yes,29/01/2023
+43,Female,Protestantism,Cantonese,Master or above,0,Friends/Extended Family/Neighbour,Bio Lab,10,Hall,0,Strongly Disagree,No,29/01/2023
+40,Male,Sikhism,Cantonese,University,2,Friends/Extended Family/Neighbour,Canteen,7,Bio Lab,10,Strongly Agree,Yes,28/01/2023
+56,Male,Islam,English,Master or above,1,School Website,Chem Lab,7,Basketball Court,5,Strongly Agree,No,28/01/2023
+59,Male,Hinduism,Filipino,Master or above,3,School Website,Bio Lab,9,Hall,4,Strongly Agree,,28/01/2023
+30,Female,Hinduism,Indonesian,Primary School or below,3,School Website,Basketball Court,8,Bio Lab,5,Agree,No,28/01/2023
+31,Male,Sikhism,Thai,Master or above,2,Friends/Extended Family/Neighbour,Library,7,Canteen,3,Neutral,,28/01/2023
+35,Female,Buddhism,Filipino,University,2,Friends/Extended Family/Neighbour,Canteen,8,Phy Lab,3,Disagree,No,29/01/2023
+56,Male,Sikhism,English,Primary School or below,0,Friends/Extended Family/Neighbour,VA room,5,Basketball Court,2,Agree,No,29/01/2023
+59,Male,Taoism,Cantonese,University,4,Friends/Extended Family/Neighbour,Library,9,Basketball Court,5,Agree,,28/01/2023
+28,Female,Islam,Thai,University,5,Newspaper/ Magazine,VA room,3,Hall,10,Disagree,Yes,29/01/2023
+48,Male,Chinese God,Indonesian,University,0,Friends/Extended Family/Neighbour,Phy Lab,8,Basketball Court,4,Strongly Disagree,Yes,29/01/2023
+52,Female,Hinduism,Thai,Secondary School/Associate Degree/Diploma,2,Social Media,Hall,9,Bio Lab,3,Agree,,28/01/2023
+54,Genderqueer,Catholicism,Vietnamese,University,0,Newspaper/ Magazine,Library,5,Library,7,Strongly Agree,No,28/01/2023
+34,Female,Sikhism,Mandarin,Secondary School/Associate Degree/Diploma,4,Social Media,Chem Lab,5,Chem Lab,2,Agree,No,28/01/2023
+56,Male,Sikhism,Cantonese,Primary School or below,0,School Website,Bio Lab,5,Phy Lab,2,Strongly Agree,Yes,29/01/2023
+54,Non-binary,Confucianism,Vietnamese,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,Canteen,1,VA room,5,Strongly Disagree,No,29/01/2023
+48,Female,Hinduism,Mandarin,Secondary School/Associate Degree/Diploma,3,School Website,Library,7,VA room,0,Agree,Yes,28/01/2023
+50,Female,Hinduism,Indonesian,Secondary School/Associate Degree/Diploma,3,Friends/Extended Family/Neighbour,Bio Lab,8,Chem Lab,0,Strongly Agree,No,29/01/2023
+34,Polygender,Catholicism,Vietnamese,Master or above,2,School Website,Basketball Court,1,Library,3,Agree,Yes,29/01/2023
+20,Female,Chinese God,Filipino,Secondary School/Associate Degree/Diploma,4,Social Media,Library,8,VA room,8,Agree,,28/01/2023
+41,Agender,Hinduism,English,University,1,School Website,Bio Lab,5,Phy Lab,9,Neutral,No,28/01/2023
+59,Male,Sikhism,Filipino,Master or above,5,Social Media,Bio Lab,1,Bio Lab,2,Strongly Disagree,No,28/01/2023
+20,Male,Hinduism,Mandarin,Master or above,2,Social Media,Phy Lab,4,Chem Lab,7,Neutral,,28/01/2023
+37,Female,Sikhism,Indonesian,Primary School or below,5,School Website,Library,9,Bio Lab,1,Strongly Disagree,No,28/01/2023
+26,Female,Islam,Mandarin,Primary School or below,3,School Website,Hall,5,Bio Lab,1,Disagree,Yes,28/01/2023
+54,Female,Chinese God,Vietnamese,Master or above,3,Newspaper/ Magazine,Library,0,Hall,10,Neutral,No,28/01/2023
+22,Female,Buddhism,Mandarin,University,4,School Website,VA room,9,Chem Lab,6,Disagree,Yes,29/01/2023
+21,Male,Sikhism,Filipino,Primary School or below,2,Friends/Extended Family/Neighbour,Canteen,1,Canteen,10,Strongly Agree,No,29/01/2023
+24,Female,Buddhism,Filipino,Primary School or below,3,Social Media,VA room,0,Phy Lab,4,Neutral,Yes,29/01/2023
+49,Female,Islam,Thai,Master or above,2,Newspaper/ Magazine,Canteen,4,Phy Lab,0,Neutral,Yes,29/01/2023
+53,Male,Taoism,Thai,University,5,Social Media,Phy Lab,6,Chem Lab,0,Neutral,No,29/01/2023
+46,Male,Catholicism,English,Master or above,2,School Website,Chem Lab,2,Phy Lab,7,Agree,No,28/01/2023
+43,Male,Hinduism,Cantonese,Primary School or below,3,Friends/Extended Family/Neighbour,VA room,5,Library,3,Agree,Yes,29/01/2023
+27,Male,Chinese God,Mandarin,University,3,Friends/Extended Family/Neighbour,VA room,3,Chem Lab,10,Agree,No,29/01/2023
+54,Male,Confucianism,Cantonese,Master or above,4,Social Media,VA room,1,Canteen,3,Strongly Agree,,29/01/2023
+60,Female,Chinese God,Filipino,Secondary School/Associate Degree/Diploma,3,Friends/Extended Family/Neighbour,Basketball Court,7,Bio Lab,1,Neutral,No,29/01/2023
+57,Female,Confucianism,Indonesian,Secondary School/Associate Degree/Diploma,3,Social Media,Basketball Court,1,Canteen,9,Disagree,Yes,28/01/2023
+25,Female,Taoism,Vietnamese,University,0,Friends/Extended Family/Neighbour,Bio Lab,10,Bio Lab,6,Neutral,No,28/01/2023
+18,Male,Catholicism,Indonesian,University,0,Social Media,Phy Lab,5,VA room,8,Disagree,No,29/01/2023
+26,Male,Confucianism,Cantonese,University,2,Newspaper/ Magazine,Basketball Court,9,VA room,9,Agree,No,28/01/2023
+57,Male,Sikhism,Vietnamese,Secondary School/Associate Degree/Diploma,5,Friends/Extended Family/Neighbour,Basketball Court,3,Phy Lab,10,Disagree,No,28/01/2023
+39,Male,Catholicism,Mandarin,Secondary School/Associate Degree/Diploma,2,School Website,VA room,9,Phy Lab,2,Disagree,Yes,28/01/2023
+36,Female,Hinduism,Indonesian,Primary School or below,5,School Website,Hall,6,Canteen,9,Strongly Disagree,No,29/01/2023
+59,Male,Chinese God,Filipino,Master or above,2,School Website,VA room,3,Library,3,Disagree,Yes,28/01/2023
+32,Female,Confucianism,English,Master or above,4,Social Media,Canteen,0,Hall,2,Strongly Agree,Yes,29/01/2023
+37,Female,Buddhism,Vietnamese,Primary School or below,4,Friends/Extended Family/Neighbour,Hall,3,VA room,7,Strongly Disagree,,29/01/2023
+57,Male,Taoism,English,University,0,Newspaper/ Magazine,Canteen,3,Basketball Court,3,Strongly Disagree,Yes,29/01/2023
+59,Male,Taoism,Cantonese,Secondary School/Associate Degree/Diploma,1,School Website,VA room,8,Phy Lab,10,Strongly Disagree,No,28/01/2023
+22,Male,Buddhism,Filipino,University,2,Social Media,Canteen,3,Library,6,Strongly Agree,No,28/01/2023
+43,Female,Confucianism,Indonesian,Master or above,0,Friends/Extended Family/Neighbour,Phy Lab,4,Library,7,Strongly Agree,Yes,28/01/2023
+27,Male,Buddhism,Vietnamese,University,4,Friends/Extended Family/Neighbour,Chem Lab,8,Canteen,4,Agree,,28/01/2023
+37,Female,Confucianism,Indonesian,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,Chem Lab,3,Basketball Court,10,Strongly Disagree,No,28/01/2023
+59,Male,Catholicism,Thai,Secondary School/Associate Degree/Diploma,2,Social Media,Phy Lab,8,Bio Lab,4,Strongly Disagree,Yes,28/01/2023
+53,Female,Taoism,English,University,0,School Website,Bio Lab,3,Phy Lab,9,Strongly Agree,Yes,29/01/2023
+54,Female,Confucianism,Vietnamese,Master or above,1,Newspaper/ Magazine,Library,6,Chem Lab,9,Strongly Disagree,,28/01/2023
+52,Male,Islam,Cantonese,Secondary School/Associate Degree/Diploma,3,Friends/Extended Family/Neighbour,Library,1,Hall,4,Agree,Yes,29/01/2023
+27,Female,Hinduism,Filipino,Secondary School/Associate Degree/Diploma,5,Social Media,Canteen,1,Library,3,Neutral,,28/01/2023
+37,Female,Chinese God,Thai,Master or above,3,School Website,Phy Lab,9,Hall,7,Strongly Disagree,Yes,29/01/2023
+21,Female,Buddhism,Filipino,Primary School or below,0,Social Media,Hall,6,Hall,7,Agree,,28/01/2023
+39,Female,Taoism,English,University,5,Social Media,Canteen,2,Library,5,Neutral,Yes,28/01/2023
+30,Male,Catholicism,Cantonese,Primary School or below,0,Newspaper/ Magazine,Canteen,5,Library,1,Agree,,28/01/2023
+19,Female,Buddhism,Indonesian,Master or above,4,Friends/Extended Family/Neighbour,Hall,9,Library,5,Strongly Disagree,No,29/01/2023
+21,Female,Catholicism,Indonesian,Secondary School/Associate Degree/Diploma,5,School Website,Chem Lab,6,VA room,9,Strongly Disagree,No,29/01/2023
+31,Male,Islam,Indonesian,Master or above,3,Friends/Extended Family/Neighbour,Library,4,Hall,1,Neutral,No,28/01/2023
+58,Polygender,Taoism,Thai,Primary School or below,3,Newspaper/ Magazine,Phy Lab,2,Chem Lab,6,Strongly Disagree,No,29/01/2023
+25,Female,Chinese God,Indonesian,Primary School or below,1,Newspaper/ Magazine,Basketball Court,8,Basketball Court,9,Agree,No,29/01/2023
+23,Male,Buddhism,Indonesian,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,Library,3,Bio Lab,5,Disagree,Yes,29/01/2023
+37,Female,Hinduism,Cantonese,Primary School or below,4,School Website,Library,8,Phy Lab,5,Strongly Agree,Yes,29/01/2023
+42,Male,Confucianism,Filipino,Master or above,3,Social Media,Phy Lab,8,Phy Lab,6,Agree,No,28/01/2023
+21,Female,Protestantism,Vietnamese,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,Phy Lab,4,Hall,1,Strongly Agree,Yes,28/01/2023
+53,Male,Buddhism,Thai,University,5,Newspaper/ Magazine,Chem Lab,5,Hall,9,Disagree,,28/01/2023
+48,Male,Buddhism,Mandarin,Primary School or below,0,Newspaper/ Magazine,Basketball Court,6,Chem Lab,5,Strongly Agree,Yes,29/01/2023
+54,Female,Protestantism,English,University,4,Friends/Extended Family/Neighbour,Bio Lab,5,Chem Lab,8,Agree,No,29/01/2023
+28,Female,Sikhism,Thai,Master or above,1,School Website,Bio Lab,10,Hall,9,Neutral,Yes,29/01/2023
+35,Female,Islam,Mandarin,Primary School or below,5,Social Media,Library,8,VA room,0,Neutral,Yes,28/01/2023
+30,Male,Buddhism,Cantonese,Secondary School/Associate Degree/Diploma,4,Social Media,VA room,5,Hall,9,Neutral,No,29/01/2023
+27,Male,Buddhism,English,University,2,Friends/Extended Family/Neighbour,VA room,10,Basketball Court,0,Disagree,No,29/01/2023
+50,Male,Confucianism,English,Master or above,5,Friends/Extended Family/Neighbour,Canteen,0,Chem Lab,9,Agree,No,29/01/2023
+23,Male,Chinese God,Filipino,University,3,Newspaper/ Magazine,Phy Lab,5,Basketball Court,0,Disagree,No,29/01/2023
+21,Female,Hinduism,Indonesian,Master or above,1,School Website,Phy Lab,3,Bio Lab,6,Strongly Disagree,No,28/01/2023
+37,Male,Protestantism,Vietnamese,Secondary School/Associate Degree/Diploma,4,Friends/Extended Family/Neighbour,Phy Lab,1,Library,4,Strongly Disagree,Yes,29/01/2023
+28,Female,Buddhism,Cantonese,Primary School or below,3,School Website,Hall,1,Basketball Court,0,Disagree,Yes,28/01/2023
+22,Female,Hinduism,Mandarin,Master or above,4,Newspaper/ Magazine,Hall,6,Library,3,Agree,Yes,28/01/2023
+44,Female,Catholicism,Vietnamese,Primary School or below,3,Social Media,Bio Lab,3,Basketball Court,4,Agree,Yes,29/01/2023
+18,Male,Islam,Cantonese,Secondary School/Associate Degree/Diploma,4,Friends/Extended Family/Neighbour,Bio Lab,2,Hall,0,Strongly Disagree,,29/01/2023
+39,Male,Chinese God,Vietnamese,Master or above,1,Newspaper/ Magazine,Hall,5,VA room,2,Strongly Agree,,29/01/2023
+18,Female,Catholicism,Cantonese,Master or above,3,Newspaper/ Magazine,Chem Lab,4,VA room,3,Disagree,No,28/01/2023
+20,Female,Taoism,Filipino,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,VA room,6,Phy Lab,0,Neutral,Yes,28/01/2023
+31,Male,Hinduism,Mandarin,Primary School or below,2,School Website,Phy Lab,4,VA room,3,Agree,No,29/01/2023
+43,Female,Chinese God,Filipino,Primary School or below,5,School Website,Canteen,10,Bio Lab,10,Disagree,No,29/01/2023
+58,Male,Islam,Indonesian,Primary School or below,4,Social Media,Bio Lab,0,Chem Lab,10,Strongly Disagree,Yes,28/01/2023
+33,Male,Confucianism,Vietnamese,Primary School or below,4,Newspaper/ Magazine,Basketball Court,1,Bio Lab,7,Strongly Disagree,Yes,29/01/2023
+34,Female,Sikhism,Mandarin,University,4,Social Media,Canteen,7,Hall,9,Neutral,No,29/01/2023
+26,Female,Hinduism,Cantonese,Primary School or below,2,Friends/Extended Family/Neighbour,Phy Lab,4,Bio Lab,1,Agree,No,29/01/2023
+24,Female,Confucianism,Cantonese,Primary School or below,1,School Website,Basketball Court,10,VA room,7,Agree,No,29/01/2023
+21,Male,Chinese God,Filipino,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,Hall,7,Chem Lab,3,Agree,Yes,28/01/2023
+34,Male,Sikhism,Filipino,Master or above,5,Newspaper/ Magazine,Basketball Court,7,Library,8,Strongly Agree,No,29/01/2023
+18,Bigender,Islam,Mandarin,Secondary School/Associate Degree/Diploma,5,Friends/Extended Family/Neighbour,Library,4,Hall,2,Disagree,No,29/01/2023
+51,Male,Chinese God,Filipino,Master or above,4,Newspaper/ Magazine,VA room,8,Hall,0,Disagree,No,28/01/2023
+30,Male,Buddhism,Indonesian,Master or above,4,Newspaper/ Magazine,Basketball Court,5,Canteen,8,Strongly Agree,,28/01/2023
+35,Male,Chinese God,Indonesian,Secondary School/Associate Degree/Diploma,1,School Website,Bio Lab,6,Phy Lab,6,Neutral,Yes,28/01/2023
+51,Male,Sikhism,Mandarin,Master or above,4,Newspaper/ Magazine,Canteen,10,Bio Lab,6,Strongly Disagree,No,28/01/2023
+29,Male,Islam,English,University,0,Social Media,Canteen,7,Hall,9,Disagree,Yes,29/01/2023
+58,Female,Islam,Mandarin,University,2,School Website,Library,7,Bio Lab,10,Strongly Agree,Yes,28/01/2023
+38,Non-binary,Chinese God,Indonesian,University,0,Newspaper/ Magazine,VA room,8,Basketball Court,9,Agree,No,29/01/2023
+33,Polygender,Sikhism,Filipino,Primary School or below,1,Newspaper/ Magazine,Chem Lab,2,Basketball Court,1,Strongly Agree,Yes,29/01/2023
+44,Male,Catholicism,Vietnamese,Primary School or below,2,Newspaper/ Magazine,Bio Lab,1,VA room,9,Strongly Disagree,No,29/01/2023
+46,Male,Buddhism,English,Primary School or below,0,Newspaper/ Magazine,Hall,10,VA room,1,Strongly Disagree,Yes,29/01/2023
+51,Female,Catholicism,Thai,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,VA room,5,Bio Lab,7,Strongly Agree,Yes,29/01/2023
+25,Male,Sikhism,English,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,Basketball Court,4,Hall,8,Disagree,No,28/01/2023
+58,Female,Sikhism,English,Secondary School/Associate Degree/Diploma,1,School Website,Chem Lab,9,Phy Lab,10,Neutral,Yes,28/01/2023
+39,Male,Taoism,English,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,Hall,6,Library,7,Strongly Agree,No,29/01/2023
+19,Male,Hinduism,Filipino,Primary School or below,5,School Website,Phy Lab,3,Hall,3,Strongly Disagree,No,29/01/2023
+41,Agender,Islam,Indonesian,University,1,Friends/Extended Family/Neighbour,Hall,1,Library,6,Strongly Disagree,Yes,28/01/2023
+49,Female,Protestantism,Cantonese,Primary School or below,3,Social Media,Bio Lab,6,Hall,9,Agree,No,29/01/2023
+22,Male,Sikhism,Indonesian,Secondary School/Associate Degree/Diploma,4,School Website,Bio Lab,5,Phy Lab,2,Disagree,Yes,29/01/2023
+35,Female,Protestantism,Mandarin,Secondary School/Associate Degree/Diploma,2,Social Media,Bio Lab,0,Chem Lab,0,Strongly Disagree,Yes,29/01/2023
+19,Female,Sikhism,Thai,Secondary School/Associate Degree/Diploma,3,School Website,Phy Lab,6,Phy Lab,10,Strongly Agree,No,29/01/2023
+49,Female,Taoism,Thai,Master or above,2,School Website,Hall,9,Hall,1,Neutral,No,28/01/2023
+54,Male,Catholicism,Thai,Master or above,3,School Website,Hall,2,Bio Lab,4,Disagree,Yes,29/01/2023
+42,Male,Hinduism,English,Primary School or below,1,Social Media,Phy Lab,10,Basketball Court,2,Agree,No,29/01/2023
+59,Female,Islam,Thai,Secondary School/Associate Degree/Diploma,2,Social Media,Chem Lab,0,Library,0,Strongly Agree,Yes,29/01/2023
+40,Male,Catholicism,Indonesian,Primary School or below,3,Social Media,VA room,9,Basketball Court,10,Strongly Agree,Yes,29/01/2023
+32,Male,Taoism,English,Primary School or below,0,Friends/Extended Family/Neighbour,Chem Lab,5,Hall,0,Strongly Disagree,Yes,28/01/2023
+34,Female,Islam,Filipino,Master or above,2,Friends/Extended Family/Neighbour,Bio Lab,7,Basketball Court,0,Disagree,Yes,28/01/2023
+52,Agender,Protestantism,Thai,Secondary School/Associate Degree/Diploma,1,Friends/Extended Family/Neighbour,Phy Lab,5,Library,10,Neutral,Yes,28/01/2023
+40,Male,Catholicism,Thai,Master or above,1,Friends/Extended Family/Neighbour,VA room,10,Phy Lab,6,Neutral,No,29/01/2023
+59,Male,Islam,Filipino,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,VA room,7,Canteen,2,Disagree,Yes,29/01/2023
+20,Female,Taoism,Filipino,University,4,Newspaper/ Magazine,Canteen,9,Canteen,4,Strongly Agree,,29/01/2023
+31,Female,Taoism,Indonesian,University,3,Social Media,Bio Lab,4,Canteen,7,Neutral,Yes,28/01/2023
+45,Female,Catholicism,Thai,Primary School or below,3,Social Media,Chem Lab,0,Canteen,3,Strongly Disagree,Yes,28/01/2023
+33,Female,Hinduism,Indonesian,University,1,Newspaper/ Magazine,Hall,6,Hall,9,Disagree,Yes,29/01/2023
+59,Male,Protestantism,Cantonese,University,0,Newspaper/ Magazine,Bio Lab,3,Chem Lab,7,Strongly Agree,No,28/01/2023
+26,Male,Buddhism,Vietnamese,Primary School or below,3,Friends/Extended Family/Neighbour,Chem Lab,0,Chem Lab,8,Disagree,No,29/01/2023
+21,Female,Islam,Filipino,Secondary School/Associate Degree/Diploma,2,School Website,Library,4,Canteen,5,Disagree,Yes,29/01/2023
+55,Female,Buddhism,Mandarin,University,2,School Website,Library,4,VA room,2,Strongly Agree,Yes,28/01/2023
+39,Male,Confucianism,English,Secondary School/Associate Degree/Diploma,2,Social Media,Library,10,Canteen,9,Neutral,No,28/01/2023
+36,Male,Catholicism,Vietnamese,Secondary School/Associate Degree/Diploma,1,Friends/Extended Family/Neighbour,VA room,1,Canteen,2,Strongly Disagree,Yes,28/01/2023
+46,Male,Confucianism,Indonesian,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,VA room,5,Basketball Court,5,Agree,Yes,28/01/2023
+44,Male,Chinese God,Cantonese,Secondary School/Associate Degree/Diploma,2,Social Media,Chem Lab,3,Phy Lab,9,Disagree,No,28/01/2023
+49,Genderfluid,Sikhism,Thai,Secondary School/Associate Degree/Diploma,5,School Website,VA room,2,Basketball Court,8,Neutral,Yes,28/01/2023
+56,Female,Taoism,Indonesian,Master or above,5,School Website,Hall,6,Basketball Court,4,Disagree,Yes,28/01/2023
+27,Male,Hinduism,Filipino,Primary School or below,3,Friends/Extended Family/Neighbour,Canteen,9,Hall,8,Strongly Agree,No,29/01/2023
+31,Female,Taoism,Filipino,University,2,Social Media,Bio Lab,3,VA room,4,Strongly Disagree,No,29/01/2023
+29,Male,Chinese God,Mandarin,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,VA room,10,Canteen,0,Strongly Disagree,No,28/01/2023
+21,Male,Hinduism,Vietnamese,University,4,Newspaper/ Magazine,Library,10,Chem Lab,8,Neutral,No,29/01/2023
+55,Female,Islam,Vietnamese,Master or above,5,Social Media,Bio Lab,5,Phy Lab,9,Disagree,Yes,28/01/2023
+19,Male,Chinese God,Indonesian,University,5,Social Media,Basketball Court,10,VA room,0,Disagree,Yes,28/01/2023
+47,Male,Confucianism,Mandarin,University,4,Newspaper/ Magazine,VA room,0,VA room,3,Strongly Disagree,No,29/01/2023
+39,Male,Islam,English,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,Phy Lab,10,VA room,0,Disagree,Yes,28/01/2023
+56,Non-binary,Buddhism,Vietnamese,Master or above,2,Social Media,Phy Lab,0,Bio Lab,6,Strongly Agree,Yes,28/01/2023
+32,Female,Islam,English,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,VA room,5,Phy Lab,7,Strongly Disagree,No,29/01/2023
+45,Female,Confucianism,Mandarin,Primary School or below,3,Social Media,Basketball Court,5,Phy Lab,7,Disagree,No,28/01/2023
+21,Male,Catholicism,Vietnamese,Master or above,2,Social Media,Canteen,6,Hall,4,Strongly Disagree,,28/01/2023
+41,Male,Buddhism,Indonesian,University,4,Friends/Extended Family/Neighbour,Chem Lab,6,Basketball Court,3,Strongly Agree,No,29/01/2023
+49,Female,Chinese God,Cantonese,Master or above,0,Social Media,Bio Lab,0,VA room,9,Agree,No,29/01/2023
+45,Male,Confucianism,Indonesian,Primary School or below,5,School Website,Bio Lab,1,Basketball Court,3,Disagree,Yes,28/01/2023
+58,Female,Islam,Indonesian,Master or above,4,Newspaper/ Magazine,Canteen,0,Phy Lab,10,Strongly Disagree,Yes,29/01/2023
+26,Male,Protestantism,English,Primary School or below,5,Friends/Extended Family/Neighbour,Chem Lab,7,Basketball Court,8,Strongly Agree,Yes,28/01/2023
+43,Male,Confucianism,Cantonese,Primary School or below,1,Friends/Extended Family/Neighbour,Phy Lab,0,Library,3,Strongly Agree,No,29/01/2023
+44,Female,Islam,Cantonese,Secondary School/Associate Degree/Diploma,4,School Website,Phy Lab,1,Phy Lab,6,Strongly Disagree,Yes,28/01/2023
+18,Female,Buddhism,Vietnamese,University,2,School Website,Hall,2,Basketball Court,0,Disagree,No,28/01/2023
+44,Female,Taoism,Thai,Primary School or below,0,Social Media,Phy Lab,5,Library,0,Neutral,No,29/01/2023
+25,Male,Catholicism,Thai,University,3,Friends/Extended Family/Neighbour,Library,4,VA room,3,Agree,Yes,28/01/2023
+27,Female,Taoism,Indonesian,University,0,School Website,Canteen,9,Basketball Court,7,Strongly Disagree,,28/01/2023
+57,Female,Islam,Filipino,University,0,Newspaper/ Magazine,Library,7,Hall,7,Neutral,No,29/01/2023
+58,Male,Hinduism,Thai,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Canteen,5,Basketball Court,3,Agree,No,29/01/2023
+31,Female,Islam,Mandarin,Secondary School/Associate Degree/Diploma,0,School Website,Basketball Court,2,Phy Lab,2,Strongly Disagree,Yes,29/01/2023
+48,Female,Chinese God,Vietnamese,Primary School or below,1,Friends/Extended Family/Neighbour,Library,4,VA room,1,Strongly Agree,Yes,28/01/2023
+34,Female,Confucianism,Filipino,Master or above,1,Newspaper/ Magazine,Canteen,1,Hall,7,Disagree,No,28/01/2023
+56,Male,Hinduism,Indonesian,Primary School or below,4,School Website,Canteen,3,Bio Lab,4,Agree,Yes,28/01/2023
+19,Male,Taoism,Thai,Master or above,0,Friends/Extended Family/Neighbour,VA room,2,Chem Lab,2,Strongly Disagree,,29/01/2023
+38,Female,Islam,Mandarin,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Basketball Court,8,VA room,1,Strongly Disagree,Yes,29/01/2023
+39,Male,Taoism,Cantonese,Primary School or below,3,Social Media,Canteen,6,Canteen,1,Neutral,Yes,29/01/2023
+56,Non-binary,Islam,Filipino,Master or above,0,Newspaper/ Magazine,Library,9,Canteen,5,Neutral,,29/01/2023
+18,Female,Buddhism,Cantonese,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,Hall,0,Basketball Court,3,Agree,Yes,29/01/2023
+44,Female,Taoism,English,University,1,School Website,Canteen,3,Library,8,Disagree,No,28/01/2023
+52,Female,Chinese God,Indonesian,Master or above,3,Newspaper/ Magazine,Library,4,Hall,4,Disagree,,28/01/2023
+51,Female,Protestantism,Filipino,Primary School or below,2,Friends/Extended Family/Neighbour,Basketball Court,2,Phy Lab,0,Disagree,No,29/01/2023
+32,Female,Sikhism,Mandarin,University,0,Newspaper/ Magazine,Hall,8,VA room,7,Neutral,No,29/01/2023
+19,Female,Taoism,English,Primary School or below,3,Social Media,VA room,1,Phy Lab,5,Agree,No,29/01/2023
+23,Female,Islam,Cantonese,Primary School or below,5,Social Media,Basketball Court,2,Library,7,Disagree,,29/01/2023
+27,Female,Taoism,Vietnamese,Primary School or below,2,School Website,Bio Lab,7,Phy Lab,3,Disagree,Yes,29/01/2023
+38,Female,Protestantism,Thai,University,0,School Website,Basketball Court,8,Library,9,Strongly Disagree,No,29/01/2023
+46,Female,Confucianism,Vietnamese,Master or above,1,Friends/Extended Family/Neighbour,Basketball Court,7,Basketball Court,0,Disagree,,29/01/2023
+59,Female,Hinduism,Indonesian,Master or above,2,Friends/Extended Family/Neighbour,Phy Lab,8,Canteen,1,Strongly Disagree,,29/01/2023
+34,Male,Chinese God,Cantonese,University,2,Social Media,Chem Lab,6,Bio Lab,4,Strongly Agree,Yes,29/01/2023
+60,Male,Taoism,Vietnamese,University,3,School Website,Chem Lab,10,Library,8,Strongly Disagree,No,28/01/2023
+35,Female,Protestantism,English,University,4,Social Media,Chem Lab,0,Bio Lab,3,Disagree,No,29/01/2023
+40,Female,Chinese God,Thai,Master or above,5,Friends/Extended Family/Neighbour,Hall,4,Chem Lab,0,Strongly Agree,Yes,29/01/2023
+23,Male,Confucianism,English,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Canteen,4,Hall,3,Strongly Agree,,29/01/2023
+26,Male,Protestantism,English,Secondary School/Associate Degree/Diploma,5,Social Media,Chem Lab,1,VA room,1,Strongly Disagree,Yes,29/01/2023
+48,Male,Chinese God,Filipino,University,5,Newspaper/ Magazine,Phy Lab,0,Canteen,10,Neutral,Yes,28/01/2023
+28,Female,Catholicism,Vietnamese,University,4,Newspaper/ Magazine,Library,7,Basketball Court,2,Neutral,No,28/01/2023
+51,Female,Islam,Cantonese,Master or above,2,Friends/Extended Family/Neighbour,Chem Lab,7,Phy Lab,7,Agree,Yes,28/01/2023
+46,Male,Confucianism,Filipino,University,1,Friends/Extended Family/Neighbour,Basketball Court,1,Bio Lab,9,Strongly Agree,No,28/01/2023
+46,Male,Chinese God,Filipino,Master or above,1,School Website,Library,4,Phy Lab,2,Agree,Yes,29/01/2023
+49,Female,Confucianism,Filipino,Master or above,4,Social Media,Chem Lab,4,Hall,0,Strongly Agree,Yes,28/01/2023
+46,Female,Islam,Indonesian,Master or above,1,Newspaper/ Magazine,Canteen,1,Basketball Court,0,Agree,Yes,28/01/2023
+53,Female,Protestantism,Cantonese,Secondary School/Associate Degree/Diploma,4,Social Media,Hall,7,Hall,8,Neutral,No,29/01/2023
+45,Female,Buddhism,Thai,Secondary School/Associate Degree/Diploma,2,Social Media,Bio Lab,10,VA room,8,Neutral,Yes,29/01/2023
+45,Female,Catholicism,Mandarin,Primary School or below,4,Newspaper/ Magazine,Phy Lab,8,Library,6,Disagree,Yes,28/01/2023
+37,Genderqueer,Islam,Vietnamese,University,0,Newspaper/ Magazine,Phy Lab,5,Library,2,Strongly Agree,No,29/01/2023
+28,Agender,Confucianism,Cantonese,Secondary School/Associate Degree/Diploma,5,Friends/Extended Family/Neighbour,Canteen,8,Phy Lab,5,Disagree,No,28/01/2023
+51,Male,Confucianism,English,Primary School or below,0,Friends/Extended Family/Neighbour,Phy Lab,4,Basketball Court,2,Agree,Yes,28/01/2023
+42,Female,Taoism,English,Secondary School/Associate Degree/Diploma,3,Social Media,Phy Lab,1,Hall,9,Strongly Agree,Yes,29/01/2023
+43,Male,Sikhism,English,Master or above,4,Social Media,Hall,3,Library,5,Disagree,No,28/01/2023
+46,Male,Protestantism,Mandarin,Primary School or below,3,Friends/Extended Family/Neighbour,Basketball Court,9,Basketball Court,9,Strongly Disagree,No,29/01/2023
+29,Male,Protestantism,Filipino,Master or above,3,Friends/Extended Family/Neighbour,Canteen,0,Canteen,3,Strongly Agree,No,28/01/2023
+44,Female,Chinese God,Thai,Primary School or below,4,Newspaper/ Magazine,Phy Lab,10,Chem Lab,4,Disagree,No,29/01/2023
+34,Polygender,Chinese God,Thai,Primary School or below,1,School Website,Phy Lab,5,VA room,1,Neutral,Yes,29/01/2023
+58,Female,Hinduism,Thai,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,Library,5,Phy Lab,9,Strongly Agree,No,29/01/2023
+44,Female,Hinduism,Mandarin,Primary School or below,2,Friends/Extended Family/Neighbour,Phy Lab,4,Canteen,8,Agree,,29/01/2023
+60,Male,Taoism,English,Master or above,1,School Website,Phy Lab,0,VA room,2,Agree,Yes,29/01/2023
+47,Female,Sikhism,English,University,4,Newspaper/ Magazine,Chem Lab,2,Basketball Court,3,Agree,Yes,28/01/2023
+31,Female,Sikhism,Cantonese,Secondary School/Associate Degree/Diploma,4,Newspaper/ Magazine,VA room,7,Chem Lab,3,Strongly Agree,No,29/01/2023
+27,Agender,Protestantism,Filipino,Secondary School/Associate Degree/Diploma,1,School Website,Library,7,Library,3,Disagree,Yes,28/01/2023
+58,Male,Hinduism,Filipino,Secondary School/Associate Degree/Diploma,4,School Website,Library,8,Hall,10,Agree,No,29/01/2023
+22,Female,Hinduism,Indonesian,Primary School or below,4,Friends/Extended Family/Neighbour,Canteen,2,Basketball Court,2,Disagree,No,29/01/2023
+57,Female,Confucianism,Mandarin,University,4,Social Media,Canteen,0,Chem Lab,7,Disagree,No,28/01/2023
+43,Male,Taoism,Mandarin,Secondary School/Associate Degree/Diploma,2,Social Media,Chem Lab,6,Bio Lab,2,Neutral,Yes,29/01/2023
+45,Male,Protestantism,Thai,Master or above,2,School Website,Hall,5,VA room,2,Disagree,No,28/01/2023
+34,Female,Hinduism,Indonesian,Primary School or below,2,Newspaper/ Magazine,Canteen,1,Bio Lab,10,Strongly Agree,,28/01/2023
+43,Male,Catholicism,Mandarin,Primary School or below,2,Social Media,VA room,9,Chem Lab,5,Strongly Disagree,Yes,29/01/2023
+49,Male,Catholicism,Vietnamese,Primary School or below,0,Friends/Extended Family/Neighbour,Chem Lab,6,Bio Lab,2,Neutral,No,29/01/2023
+53,Female,Sikhism,Indonesian,University,3,Social Media,Library,0,Canteen,1,Strongly Agree,,29/01/2023
+27,Female,Confucianism,Cantonese,University,1,School Website,Canteen,6,Library,1,Strongly Agree,Yes,29/01/2023
+31,Female,Chinese God,Mandarin,Secondary School/Associate Degree/Diploma,4,Newspaper/ Magazine,VA room,5,Bio Lab,7,Agree,No,29/01/2023
+25,Male,Islam,Indonesian,Primary School or below,2,School Website,Phy Lab,7,Bio Lab,6,Strongly Agree,Yes,28/01/2023
+18,Male,Protestantism,Vietnamese,Secondary School/Associate Degree/Diploma,1,Social Media,VA room,8,VA room,9,Strongly Agree,Yes,28/01/2023
+19,Female,Taoism,Cantonese,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Canteen,0,Hall,8,Disagree,No,28/01/2023
+35,Male,Buddhism,Vietnamese,Master or above,1,Friends/Extended Family/Neighbour,Bio Lab,9,VA room,2,Strongly Agree,No,28/01/2023
+34,Female,Islam,Vietnamese,Master or above,3,Social Media,Basketball Court,6,Phy Lab,1,Neutral,No,29/01/2023
+19,Female,Catholicism,Cantonese,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,VA room,2,Hall,0,Agree,No,28/01/2023
+39,Female,Catholicism,Mandarin,Primary School or below,3,Newspaper/ Magazine,Chem Lab,8,VA room,10,Strongly Disagree,No,29/01/2023
+42,Polygender,Taoism,English,Master or above,5,Friends/Extended Family/Neighbour,Hall,5,Phy Lab,5,Disagree,,29/01/2023
+58,Female,Islam,Vietnamese,Secondary School/Associate Degree/Diploma,2,Friends/Extended Family/Neighbour,Hall,3,VA room,9,Neutral,,28/01/2023
+59,Non-binary,Confucianism,Vietnamese,University,0,Newspaper/ Magazine,Hall,0,Chem Lab,0,Disagree,Yes,28/01/2023
+57,Female,Sikhism,Thai,Master or above,5,Social Media,Hall,0,VA room,6,Neutral,Yes,29/01/2023
+39,Female,Taoism,Mandarin,University,4,Friends/Extended Family/Neighbour,Library,0,Canteen,7,Agree,Yes,29/01/2023
+50,Female,Buddhism,Cantonese,Primary School or below,4,Friends/Extended Family/Neighbour,Library,8,Bio Lab,2,Agree,No,28/01/2023
+23,Female,Chinese God,Thai,Master or above,5,Newspaper/ Magazine,Library,2,Chem Lab,1,Strongly Agree,Yes,28/01/2023
+23,Female,Taoism,Vietnamese,Master or above,1,Newspaper/ Magazine,Phy Lab,7,Library,3,Disagree,Yes,29/01/2023
+29,Male,Catholicism,Mandarin,Primary School or below,1,Friends/Extended Family/Neighbour,Phy Lab,9,VA room,0,Disagree,Yes,28/01/2023
+57,Female,Confucianism,Indonesian,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Chem Lab,10,Phy Lab,8,Disagree,Yes,28/01/2023
+57,Female,Hinduism,English,Secondary School/Associate Degree/Diploma,3,Social Media,Library,7,Phy Lab,1,Strongly Agree,No,29/01/2023
+21,Male,Hinduism,Vietnamese,Master or above,5,School Website,Library,6,Chem Lab,6,Disagree,Yes,29/01/2023
+51,Female,Catholicism,Filipino,Master or above,5,Social Media,Chem Lab,0,Bio Lab,3,Neutral,Yes,28/01/2023
+21,Female,Buddhism,Filipino,Secondary School/Associate Degree/Diploma,4,School Website,Library,0,Phy Lab,5,Strongly Agree,No,29/01/2023
+36,Male,Hinduism,Indonesian,University,1,Newspaper/ Magazine,Chem Lab,4,Chem Lab,10,Strongly Agree,Yes,28/01/2023
+31,Female,Protestantism,Filipino,Secondary School/Associate Degree/Diploma,2,School Website,Bio Lab,2,Basketball Court,2,Disagree,Yes,28/01/2023
+21,Female,Buddhism,Vietnamese,Primary School or below,2,Friends/Extended Family/Neighbour,Library,9,Basketball Court,2,Neutral,Yes,29/01/2023
+23,Male,Catholicism,English,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Bio Lab,4,Basketball Court,5,Neutral,Yes,29/01/2023
+52,Male,Buddhism,Mandarin,University,5,School Website,Canteen,1,Phy Lab,0,Agree,Yes,29/01/2023
+23,Female,Confucianism,Cantonese,Secondary School/Associate Degree/Diploma,3,Friends/Extended Family/Neighbour,Basketball Court,3,VA room,4,Neutral,No,28/01/2023
+50,Male,Buddhism,Mandarin,University,1,Social Media,Phy Lab,8,Library,7,Strongly Agree,Yes,29/01/2023
+43,Male,Protestantism,Mandarin,Master or above,3,School Website,Bio Lab,2,Chem Lab,6,Disagree,Yes,29/01/2023
+46,Female,Islam,Filipino,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,VA room,6,Basketball Court,2,Disagree,,29/01/2023
+34,Male,Chinese God,Vietnamese,Master or above,5,School Website,Basketball Court,7,Library,1,Strongly Agree,No,28/01/2023
+35,Polygender,Chinese God,Mandarin,Master or above,4,School Website,Library,1,Canteen,1,Neutral,Yes,28/01/2023
+43,Bigender,Protestantism,Filipino,University,4,Social Media,Hall,10,Hall,0,Strongly Disagree,No,28/01/2023
+53,Female,Taoism,Indonesian,Primary School or below,4,Social Media,Canteen,7,VA room,5,Neutral,Yes,28/01/2023
+33,Female,Buddhism,Thai,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Hall,10,Canteen,4,Strongly Agree,No,28/01/2023
+49,Male,Hinduism,Filipino,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Basketball Court,8,VA room,8,Strongly Disagree,No,28/01/2023
+53,Male,Sikhism,Thai,Primary School or below,5,School Website,Hall,7,Library,8,Agree,No,29/01/2023
+31,Non-binary,Hinduism,English,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,VA room,3,Phy Lab,4,Strongly Disagree,Yes,29/01/2023
+51,Female,Hinduism,Filipino,Master or above,0,Friends/Extended Family/Neighbour,Bio Lab,6,VA room,3,Disagree,Yes,28/01/2023
+34,Female,Taoism,Filipino,University,0,School Website,Canteen,5,VA room,3,Strongly Agree,Yes,28/01/2023
+53,Female,Protestantism,Mandarin,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Canteen,0,Library,1,Disagree,No,28/01/2023
+47,Male,Buddhism,Vietnamese,Secondary School/Associate Degree/Diploma,0,School Website,Chem Lab,10,Canteen,0,Strongly Agree,Yes,29/01/2023
+24,Male,Protestantism,English,Primary School or below,0,Social Media,Phy Lab,2,Chem Lab,4,Neutral,Yes,28/01/2023
+24,Female,Islam,Filipino,University,3,Newspaper/ Magazine,Hall,7,Chem Lab,3,Strongly Agree,No,28/01/2023
+30,Male,Taoism,Indonesian,Master or above,5,Friends/Extended Family/Neighbour,Library,8,VA room,1,Neutral,No,29/01/2023
+31,Female,Chinese God,Thai,Master or above,2,Friends/Extended Family/Neighbour,Canteen,3,Basketball Court,1,Disagree,No,29/01/2023
+34,Female,Hinduism,English,Master or above,2,Social Media,Chem Lab,6,Bio Lab,9,Disagree,Yes,28/01/2023
+24,Male,Islam,Mandarin,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,Chem Lab,6,Basketball Court,10,Agree,Yes,28/01/2023
+57,Male,Islam,Mandarin,University,2,Social Media,VA room,7,VA room,10,Neutral,No,29/01/2023
+30,Male,Chinese God,Vietnamese,University,3,Social Media,Hall,10,Phy Lab,2,Neutral,Yes,28/01/2023
+32,Female,Islam,Vietnamese,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Hall,5,Phy Lab,0,Agree,,28/01/2023
+54,Female,Islam,Indonesian,Primary School or below,4,School Website,VA room,7,Library,8,Neutral,Yes,28/01/2023
+60,Polygender,Buddhism,English,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,Phy Lab,6,Bio Lab,2,Strongly Disagree,No,28/01/2023
+33,Male,Buddhism,English,Primary School or below,4,School Website,Bio Lab,6,Phy Lab,3,Strongly Disagree,Yes,28/01/2023
+32,Male,Taoism,Vietnamese,Secondary School/Associate Degree/Diploma,3,Friends/Extended Family/Neighbour,VA room,1,Canteen,1,Strongly Agree,No,28/01/2023
+40,Female,Catholicism,Filipino,Master or above,3,Newspaper/ Magazine,Library,9,Phy Lab,7,Strongly Disagree,,28/01/2023
+49,Female,Protestantism,Cantonese,Primary School or below,3,Social Media,Library,7,VA room,4,Disagree,No,29/01/2023
+27,Female,Hinduism,Vietnamese,Primary School or below,1,Social Media,Bio Lab,6,VA room,1,Agree,Yes,28/01/2023
+38,Female,Buddhism,Indonesian,Master or above,3,Social Media,Hall,5,Phy Lab,7,Neutral,No,29/01/2023
+43,Female,Islam,English,Primary School or below,0,School Website,Basketball Court,9,Chem Lab,6,Strongly Disagree,Yes,28/01/2023
+48,Male,Protestantism,Mandarin,Primary School or below,3,Newspaper/ Magazine,Library,5,Canteen,10,Neutral,Yes,29/01/2023
+51,Female,Chinese God,Cantonese,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,Library,5,Canteen,9,Strongly Agree,Yes,28/01/2023
+21,Male,Catholicism,Thai,Secondary School/Associate Degree/Diploma,0,School Website,VA room,1,Bio Lab,3,Agree,Yes,29/01/2023
+29,Male,Buddhism,Thai,Secondary School/Associate Degree/Diploma,5,School Website,Library,5,Bio Lab,1,Strongly Disagree,No,29/01/2023
+58,Male,Islam,Indonesian,Master or above,0,School Website,Canteen,7,Basketball Court,4,Neutral,Yes,29/01/2023
+53,Female,Protestantism,Thai,Master or above,3,School Website,VA room,6,VA room,5,Strongly Disagree,No,28/01/2023
+51,Male,Buddhism,English,University,0,Newspaper/ Magazine,Basketball Court,6,VA room,2,Strongly Agree,,28/01/2023
+52,Male,Chinese God,Thai,Master or above,4,School Website,Chem Lab,7,Canteen,2,Agree,No,29/01/2023
+56,Male,Catholicism,Vietnamese,Master or above,0,Newspaper/ Magazine,VA room,7,Basketball Court,0,Agree,Yes,28/01/2023
+49,Male,Confucianism,Thai,Secondary School/Associate Degree/Diploma,3,Friends/Extended Family/Neighbour,VA room,7,Basketball Court,2,Agree,Yes,29/01/2023
+37,Female,Buddhism,English,Master or above,0,School Website,Canteen,9,Phy Lab,5,Neutral,Yes,29/01/2023
+25,Male,Buddhism,Filipino,Master or above,0,Friends/Extended Family/Neighbour,VA room,5,Library,1,Agree,No,28/01/2023
+34,Male,Confucianism,Vietnamese,Primary School or below,2,Newspaper/ Magazine,Bio Lab,4,VA room,4,Strongly Disagree,Yes,29/01/2023
+28,Male,Buddhism,Vietnamese,Primary School or below,1,Newspaper/ Magazine,Hall,1,Library,8,Neutral,Yes,28/01/2023
+31,Male,Hinduism,Cantonese,Master or above,3,Social Media,Hall,2,Library,5,Strongly Disagree,Yes,29/01/2023
+35,Male,Hinduism,Vietnamese,Primary School or below,4,Newspaper/ Magazine,VA room,8,VA room,3,Disagree,No,29/01/2023
+19,Genderqueer,Buddhism,Vietnamese,Master or above,0,Friends/Extended Family/Neighbour,Basketball Court,3,Hall,1,Agree,Yes,29/01/2023
+51,Male,Confucianism,English,Secondary School/Associate Degree/Diploma,1,Newspaper/ Magazine,Basketball Court,10,Phy Lab,0,Strongly Agree,No,28/01/2023
+42,Female,Buddhism,Thai,University,5,Social Media,Library,0,Phy Lab,3,Strongly Agree,Yes,29/01/2023
+18,Male,Sikhism,Filipino,University,4,Friends/Extended Family/Neighbour,Chem Lab,5,Library,2,Strongly Agree,Yes,29/01/2023
+37,Male,Confucianism,Filipino,University,1,Social Media,Library,2,Chem Lab,2,Disagree,,28/01/2023
+43,Female,Chinese God,Indonesian,Primary School or below,1,Newspaper/ Magazine,Basketball Court,9,Hall,5,Strongly Disagree,No,28/01/2023
+59,Non-binary,Hinduism,English,University,0,School Website,Bio Lab,10,Library,4,Agree,Yes,28/01/2023
+34,Female,Hinduism,Cantonese,University,0,Friends/Extended Family/Neighbour,Bio Lab,3,Chem Lab,0,Strongly Agree,Yes,28/01/2023
+46,Female,Islam,Mandarin,Primary School or below,4,Newspaper/ Magazine,Canteen,4,Basketball Court,0,Neutral,No,29/01/2023
+18,Genderfluid,Hinduism,Cantonese,Secondary School/Associate Degree/Diploma,5,Social Media,Canteen,6,Library,6,Strongly Agree,Yes,28/01/2023
+37,Female,Confucianism,Thai,Primary School or below,0,Newspaper/ Magazine,VA room,1,Phy Lab,9,Strongly Agree,Yes,28/01/2023
+22,Male,Islam,Indonesian,University,2,Friends/Extended Family/Neighbour,Chem Lab,9,Hall,0,Strongly Disagree,Yes,28/01/2023
+24,Female,Protestantism,Thai,Master or above,1,Friends/Extended Family/Neighbour,Hall,6,Basketball Court,9,Disagree,Yes,29/01/2023
+36,Female,Catholicism,Thai,Primary School or below,1,Social Media,Canteen,10,Basketball Court,3,Strongly Disagree,Yes,28/01/2023
+39,Agender,Catholicism,Indonesian,University,5,Friends/Extended Family/Neighbour,VA room,3,VA room,2,Strongly Agree,No,29/01/2023
+50,Female,Hinduism,Cantonese,University,2,Social Media,Phy Lab,1,VA room,1,Agree,No,29/01/2023
+22,Male,Catholicism,Vietnamese,University,0,School Website,Canteen,3,Bio Lab,2,Neutral,No,29/01/2023
+59,Male,Catholicism,Thai,Master or above,4,Newspaper/ Magazine,Hall,6,Library,9,Strongly Agree,No,29/01/2023
+42,Male,Chinese God,Cantonese,Master or above,2,Friends/Extended Family/Neighbour,Hall,7,Chem Lab,5,Disagree,No,28/01/2023
+46,Male,Islam,English,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Hall,7,Phy Lab,6,Disagree,Yes,29/01/2023
+46,Bigender,Buddhism,Cantonese,Secondary School/Associate Degree/Diploma,4,Friends/Extended Family/Neighbour,Basketball Court,4,Canteen,5,Strongly Agree,Yes,29/01/2023
+36,Genderqueer,Protestantism,Filipino,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,Bio Lab,1,Bio Lab,10,Neutral,Yes,29/01/2023
+42,Female,Catholicism,Filipino,University,3,Social Media,Basketball Court,8,Canteen,9,Strongly Agree,No,28/01/2023
+20,Female,Protestantism,English,Master or above,3,School Website,Library,9,Bio Lab,1,Neutral,Yes,29/01/2023
+32,Male,Protestantism,English,University,2,Newspaper/ Magazine,Library,2,Phy Lab,6,Strongly Agree,,29/01/2023
+25,Female,Taoism,Vietnamese,Primary School or below,0,Social Media,Hall,9,Basketball Court,4,Disagree,Yes,29/01/2023
+47,Female,Chinese God,Thai,Secondary School/Associate Degree/Diploma,5,Friends/Extended Family/Neighbour,Phy Lab,8,Library,1,Disagree,Yes,29/01/2023
+35,Male,Islam,Indonesian,Primary School or below,4,Friends/Extended Family/Neighbour,Hall,1,Basketball Court,10,Disagree,Yes,28/01/2023
+54,Male,Chinese God,Filipino,Secondary School/Associate Degree/Diploma,4,Newspaper/ Magazine,Canteen,9,Chem Lab,2,Strongly Agree,No,29/01/2023
+26,Female,Islam,Indonesian,Secondary School/Associate Degree/Diploma,1,Friends/Extended Family/Neighbour,Basketball Court,0,Library,9,Disagree,No,28/01/2023
+34,Male,Catholicism,Mandarin,Primary School or below,5,Newspaper/ Magazine,Phy Lab,4,Phy Lab,6,Strongly Disagree,No,29/01/2023
+47,Genderfluid,Confucianism,English,University,1,Social Media,VA room,2,Phy Lab,1,Disagree,Yes,28/01/2023
+32,Female,Protestantism,Cantonese,University,3,School Website,Canteen,1,Phy Lab,9,Neutral,Yes,28/01/2023
+26,Male,Confucianism,Indonesian,Master or above,1,Social Media,Phy Lab,4,Chem Lab,3,Strongly Agree,Yes,29/01/2023
+50,Male,Protestantism,Indonesian,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Bio Lab,3,Phy Lab,0,Neutral,No,29/01/2023
+46,Female,Islam,Vietnamese,Secondary School/Associate Degree/Diploma,5,Social Media,Phy Lab,10,Bio Lab,10,Strongly Agree,No,28/01/2023
+48,Female,Catholicism,Thai,Primary School or below,3,Friends/Extended Family/Neighbour,Bio Lab,1,Chem Lab,1,Agree,Yes,28/01/2023
+39,Female,Hinduism,Vietnamese,Master or above,2,Friends/Extended Family/Neighbour,Basketball Court,10,Bio Lab,5,Neutral,Yes,29/01/2023
+48,Female,Catholicism,Indonesian,University,2,School Website,Basketball Court,9,Chem Lab,0,Strongly Agree,Yes,28/01/2023
+56,Female,Taoism,Vietnamese,Secondary School/Associate Degree/Diploma,5,School Website,Bio Lab,6,Library,5,Disagree,Yes,29/01/2023
+41,Female,Chinese God,Thai,Master or above,5,Social Media,Phy Lab,7,Canteen,0,Neutral,No,28/01/2023
+51,Female,Buddhism,English,University,0,Newspaper/ Magazine,Library,1,Library,4,Disagree,Yes,29/01/2023
+38,Non-binary,Protestantism,Indonesian,Master or above,3,Friends/Extended Family/Neighbour,VA room,5,Library,10,Neutral,Yes,29/01/2023
+38,Agender,Catholicism,Thai,Primary School or below,5,School Website,Chem Lab,9,Basketball Court,9,Disagree,No,29/01/2023
+56,Male,Islam,Mandarin,University,1,School Website,Bio Lab,9,Library,2,Disagree,Yes,29/01/2023
+58,Female,Taoism,Vietnamese,Master or above,5,Friends/Extended Family/Neighbour,Basketball Court,9,Chem Lab,0,Strongly Agree,No,28/01/2023
+32,Female,Confucianism,Cantonese,Master or above,3,Social Media,VA room,9,Bio Lab,4,Strongly Disagree,Yes,28/01/2023
+21,Female,Chinese God,Thai,Master or above,3,Social Media,Phy Lab,1,VA room,5,Strongly Disagree,No,29/01/2023
+45,Male,Catholicism,Filipino,Primary School or below,5,Social Media,Canteen,2,Hall,6,Agree,,28/01/2023
+39,Male,Protestantism,Vietnamese,Master or above,2,Social Media,Bio Lab,7,Hall,9,Disagree,No,28/01/2023
+49,Male,Catholicism,Cantonese,Master or above,2,Friends/Extended Family/Neighbour,Bio Lab,3,Basketball Court,6,Agree,Yes,29/01/2023
+34,Female,Confucianism,English,Primary School or below,5,School Website,Hall,9,Hall,10,Strongly Disagree,No,28/01/2023
+38,Male,Protestantism,Mandarin,University,3,Friends/Extended Family/Neighbour,Chem Lab,3,Bio Lab,9,Neutral,Yes,28/01/2023
+34,Male,Sikhism,Filipino,Master or above,4,Friends/Extended Family/Neighbour,Phy Lab,2,Bio Lab,9,Neutral,No,29/01/2023
+28,Male,Taoism,Thai,Master or above,5,Social Media,Chem Lab,2,Library,3,Disagree,,28/01/2023
+47,Agender,Islam,Cantonese,Master or above,0,School Website,Canteen,8,Phy Lab,7,Strongly Agree,Yes,29/01/2023
+22,Female,Confucianism,Indonesian,University,3,Friends/Extended Family/Neighbour,Canteen,0,Phy Lab,5,Strongly Agree,Yes,29/01/2023
+47,Female,Catholicism,Cantonese,Master or above,2,Friends/Extended Family/Neighbour,Basketball Court,3,Canteen,6,Strongly Agree,No,28/01/2023
+55,Male,Buddhism,Thai,Master or above,1,Social Media,Basketball Court,2,Basketball Court,3,Agree,Yes,29/01/2023
+52,Male,Hinduism,Cantonese,Secondary School/Associate Degree/Diploma,4,School Website,Hall,4,Canteen,8,Agree,Yes,29/01/2023
+29,Male,Chinese God,Mandarin,Master or above,0,School Website,Canteen,10,Hall,7,Strongly Disagree,Yes,28/01/2023
+43,Female,Chinese God,Mandarin,University,2,School Website,Phy Lab,9,Basketball Court,10,Disagree,Yes,29/01/2023
+46,Polygender,Taoism,Vietnamese,University,3,Newspaper/ Magazine,Chem Lab,9,Phy Lab,7,Disagree,Yes,29/01/2023
+35,Male,Buddhism,Mandarin,Primary School or below,0,Social Media,Basketball Court,6,Canteen,5,Strongly Agree,No,28/01/2023
+35,Female,Sikhism,Filipino,Secondary School/Associate Degree/Diploma,0,Social Media,Phy Lab,6,Phy Lab,6,Disagree,Yes,28/01/2023
+25,Female,Hinduism,Mandarin,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,Canteen,2,Hall,3,Disagree,No,28/01/2023
+31,Female,Chinese God,Mandarin,Primary School or below,3,Friends/Extended Family/Neighbour,Canteen,5,Phy Lab,1,Disagree,No,29/01/2023
+23,Female,Buddhism,Thai,University,2,School Website,Chem Lab,5,VA room,6,Neutral,Yes,28/01/2023
+48,Female,Catholicism,Mandarin,Secondary School/Associate Degree/Diploma,1,School Website,Basketball Court,8,Basketball Court,8,Neutral,,28/01/2023
+40,Polygender,Protestantism,Vietnamese,Primary School or below,1,Newspaper/ Magazine,Chem Lab,1,Bio Lab,0,Neutral,Yes,28/01/2023
+46,Female,Confucianism,Thai,Master or above,0,Social Media,Basketball Court,5,Hall,2,Neutral,Yes,29/01/2023
+49,Polygender,Confucianism,English,Master or above,0,Social Media,Bio Lab,9,Phy Lab,10,Strongly Agree,No,28/01/2023
+32,Male,Sikhism,Mandarin,Secondary School/Associate Degree/Diploma,2,Social Media,VA room,3,Library,6,Strongly Disagree,No,29/01/2023
+47,Male,Sikhism,Vietnamese,Secondary School/Associate Degree/Diploma,5,Newspaper/ Magazine,Library,3,Library,8,Strongly Agree,Yes,28/01/2023
+32,Female,Islam,Cantonese,Master or above,0,Social Media,Hall,10,Chem Lab,8,Strongly Disagree,Yes,29/01/2023
+54,Female,Confucianism,Cantonese,Primary School or below,4,Friends/Extended Family/Neighbour,VA room,7,Chem Lab,10,Strongly Disagree,No,28/01/2023
+37,Male,Hinduism,Cantonese,Secondary School/Associate Degree/Diploma,3,School Website,Library,0,VA room,0,Strongly Agree,Yes,28/01/2023
+18,Male,Catholicism,English,Primary School or below,4,School Website,Hall,0,Basketball Court,4,Strongly Agree,Yes,29/01/2023
+44,Female,Confucianism,Filipino,Secondary School/Associate Degree/Diploma,3,School Website,VA room,10,Hall,4,Neutral,Yes,29/01/2023
+60,Male,Hinduism,Vietnamese,Master or above,5,Friends/Extended Family/Neighbour,Phy Lab,5,Bio Lab,3,Strongly Disagree,No,29/01/2023
+30,Female,Chinese God,Indonesian,Master or above,3,Newspaper/ Magazine,Bio Lab,0,VA room,7,Neutral,,29/01/2023
+58,Male,Chinese God,Cantonese,University,0,Newspaper/ Magazine,Canteen,5,Bio Lab,2,Agree,No,28/01/2023
+36,Female,Chinese God,Mandarin,University,1,Newspaper/ Magazine,Canteen,0,Canteen,4,Strongly Agree,Yes,29/01/2023
+24,Female,Hinduism,Cantonese,Master or above,0,Newspaper/ Magazine,Chem Lab,6,Chem Lab,3,Neutral,No,28/01/2023
+20,Female,Sikhism,Thai,University,0,Newspaper/ Magazine,Phy Lab,1,Library,10,Strongly Agree,No,28/01/2023
+45,Bigender,Taoism,Cantonese,Primary School or below,1,Social Media,VA room,5,Chem Lab,0,Disagree,Yes,29/01/2023
+41,Male,Catholicism,Cantonese,Master or above,4,Social Media,VA room,8,Library,8,Strongly Agree,Yes,28/01/2023
+39,Male,Hinduism,Mandarin,University,2,Friends/Extended Family/Neighbour,VA room,3,Phy Lab,7,Agree,No,29/01/2023
+53,Male,Protestantism,Vietnamese,Master or above,0,Social Media,Bio Lab,1,Bio Lab,1,Strongly Agree,No,29/01/2023
+54,Male,Buddhism,English,Primary School or below,3,Newspaper/ Magazine,Bio Lab,7,Canteen,0,Disagree,No,28/01/2023
+44,Male,Catholicism,Filipino,University,0,School Website,Basketball Court,10,Library,10,Agree,,28/01/2023
+29,Polygender,Buddhism,Filipino,University,2,Social Media,VA room,4,Basketball Court,0,Strongly Agree,Yes,29/01/2023
+41,Female,Protestantism,Vietnamese,Master or above,4,Social Media,Hall,6,Bio Lab,7,Disagree,,29/01/2023
+50,Female,Taoism,Indonesian,University,0,Newspaper/ Magazine,Bio Lab,4,VA room,5,Disagree,,29/01/2023
+31,Genderqueer,Islam,English,Primary School or below,5,Social Media,Canteen,9,Library,2,Disagree,Yes,28/01/2023
+40,Female,Taoism,Indonesian,Primary School or below,5,School Website,Hall,4,Bio Lab,1,Neutral,,28/01/2023
+27,Male,Islam,Filipino,Secondary School/Associate Degree/Diploma,1,Friends/Extended Family/Neighbour,Phy Lab,0,Library,2,Strongly Disagree,No,29/01/2023
+32,Male,Protestantism,Vietnamese,Primary School or below,4,Social Media,Hall,2,Bio Lab,4,Strongly Disagree,No,28/01/2023
+59,Female,Protestantism,Indonesian,Master or above,1,School Website,Phy Lab,8,Basketball Court,8,Strongly Agree,Yes,28/01/2023
+48,Female,Confucianism,Filipino,Master or above,1,Newspaper/ Magazine,Basketball Court,8,Chem Lab,6,Strongly Agree,Yes,28/01/2023
+58,Genderfluid,Protestantism,Vietnamese,University,4,Newspaper/ Magazine,Phy Lab,6,Phy Lab,3,Strongly Agree,Yes,29/01/2023
+39,Male,Protestantism,Vietnamese,Secondary School/Associate Degree/Diploma,2,Social Media,Basketball Court,9,VA room,10,Agree,Yes,28/01/2023
+57,Female,Hinduism,English,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,VA room,0,Chem Lab,8,Disagree,No,28/01/2023
+45,Male,Buddhism,Vietnamese,Secondary School/Associate Degree/Diploma,2,Social Media,Chem Lab,1,Library,0,Strongly Disagree,No,29/01/2023
+21,Male,Hinduism,Cantonese,Primary School or below,2,School Website,Canteen,7,Bio Lab,7,Strongly Agree,No,29/01/2023
+23,Female,Islam,Thai,Master or above,3,Social Media,Library,2,Basketball Court,8,Neutral,Yes,28/01/2023
+18,Female,Taoism,Indonesian,Master or above,0,School Website,Canteen,7,Chem Lab,10,Agree,Yes,28/01/2023
+59,Female,Buddhism,Vietnamese,Primary School or below,3,Social Media,Library,4,Bio Lab,7,Neutral,No,28/01/2023
+25,Male,Hinduism,Mandarin,Primary School or below,5,Newspaper/ Magazine,VA room,9,Chem Lab,0,Disagree,Yes,29/01/2023
+45,Female,Hinduism,Indonesian,Secondary School/Associate Degree/Diploma,2,School Website,Canteen,1,Library,2,Neutral,No,28/01/2023
+22,Female,Islam,Cantonese,Secondary School/Associate Degree/Diploma,1,School Website,Basketball Court,4,Chem Lab,2,Agree,Yes,28/01/2023
+49,Female,Hinduism,Indonesian,Master or above,2,School Website,VA room,5,Bio Lab,3,Disagree,Yes,29/01/2023
+37,Female,Confucianism,Cantonese,Master or above,5,Social Media,Basketball Court,0,VA room,8,Neutral,No,28/01/2023
+18,Agender,Buddhism,Vietnamese,University,4,Social Media,Basketball Court,7,Library,9,Neutral,No,29/01/2023
+28,Female,Islam,Cantonese,Master or above,2,School Website,Basketball Court,4,Library,5,Strongly Disagree,No,29/01/2023
+39,Female,Sikhism,English,Secondary School/Associate Degree/Diploma,5,Friends/Extended Family/Neighbour,VA room,4,Library,8,Strongly Agree,Yes,28/01/2023
+54,Male,Islam,Indonesian,Master or above,3,Social Media,Bio Lab,10,Canteen,3,Disagree,No,28/01/2023
+49,Female,Confucianism,Cantonese,Primary School or below,3,Social Media,Basketball Court,6,Bio Lab,3,Strongly Disagree,Yes,28/01/2023
+42,Female,Hinduism,Vietnamese,Primary School or below,2,School Website,Hall,8,Library,4,Strongly Disagree,Yes,29/01/2023
+23,Male,Chinese God,Filipino,Secondary School/Associate Degree/Diploma,0,Newspaper/ Magazine,Phy Lab,8,Chem Lab,0,Agree,Yes,29/01/2023
+39,Polygender,Taoism,Thai,Primary School or below,5,Social Media,Phy Lab,2,VA room,6,Agree,No,28/01/2023
+41,Genderqueer,Islam,English,Primary School or below,3,Social Media,Hall,10,Basketball Court,6,Disagree,No,29/01/2023
+49,Female,Islam,Indonesian,University,0,School Website,VA room,7,Hall,0,Strongly Agree,Yes,28/01/2023
+41,Male,Islam,Indonesian,Primary School or below,1,Friends/Extended Family/Neighbour,Bio Lab,10,Canteen,10,Neutral,No,28/01/2023
+51,Female,Sikhism,Indonesian,University,3,Social Media,Hall,5,Bio Lab,9,Strongly Agree,No,29/01/2023
+48,Female,Taoism,Filipino,University,0,Newspaper/ Magazine,Chem Lab,7,Basketball Court,0,Strongly Disagree,,29/01/2023
+18,Male,Hinduism,Cantonese,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,Hall,7,Canteen,7,Disagree,,29/01/2023
+41,Female,Sikhism,Filipino,Primary School or below,1,Newspaper/ Magazine,Bio Lab,3,Hall,7,Agree,Yes,29/01/2023
+41,Female,Catholicism,Cantonese,Primary School or below,5,Social Media,Canteen,3,Phy Lab,9,Neutral,No,28/01/2023
+47,Female,Catholicism,Indonesian,Primary School or below,0,Social Media,Canteen,6,Chem Lab,8,Strongly Agree,Yes,29/01/2023
+29,Male,Protestantism,Filipino,Master or above,0,School Website,Bio Lab,0,Hall,6,Agree,No,28/01/2023
+23,Male,Buddhism,Filipino,Secondary School/Associate Degree/Diploma,2,Newspaper/ Magazine,Basketball Court,3,Library,2,Strongly Agree,No,29/01/2023
+41,Male,Hinduism,Indonesian,University,2,School Website,Basketball Court,10,Basketball Court,6,Agree,Yes,28/01/2023
+18,Male,Protestantism,Filipino,Master or above,0,Newspaper/ Magazine,Library,7,Chem Lab,5,Strongly Disagree,No,29/01/2023
+49,Male,Protestantism,Mandarin,Primary School or below,0,Newspaper/ Magazine,Basketball Court,2,VA room,0,Strongly Disagree,No,28/01/2023
+48,Female,Chinese God,Filipino,Secondary School/Associate Degree/Diploma,3,Newspaper/ Magazine,VA room,7,Basketball Court,9,Disagree,No,29/01/2023
+40,Female,Protestantism,Cantonese,Primary School or below,3,Social Media,Canteen,3,Basketball Court,0,Strongly Agree,No,28/01/2023
+26,Female,Islam,English,University,1,School Website,Library,1,VA room,4,Neutral,,29/01/2023
+37,Male,Confucianism,Filipino,Secondary School/Associate Degree/Diploma,4,Social Media,Hall,1,Canteen,4,Neutral,No,28/01/2023
+43,Female,Chinese God,Thai,University,5,Newspaper/ Magazine,Phy Lab,0,Phy Lab,1,Strongly Agree,Yes,28/01/2023
+38,Male,Buddhism,Mandarin,University,3,School Website,Basketball Court,10,Bio Lab,7,Agree,No,29/01/2023
+25,Male,Protestantism,Indonesian,Primary School or below,3,School Website,VA room,6,VA room,4,Strongly Agree,No,28/01/2023
+48,Female,Islam,Mandarin,Secondary School/Associate Degree/Diploma,0,Friends/Extended Family/Neighbour,Canteen,7,Library,7,Neutral,No,28/01/2023
+51,Female,Buddhism,Filipino,Primary School or below,5,Social Media,Library,5,Hall,10,Strongly Agree,No,28/01/2023
+57,Male,Buddhism,Vietnamese,University,1,Friends/Extended Family/Neighbour,Canteen,6,Library,0,Strongly Agree,No,28/01/2023
